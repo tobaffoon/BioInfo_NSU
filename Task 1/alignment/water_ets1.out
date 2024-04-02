@@ -1,0 +1,175 @@
+########################################
+# Program: water
+# Rundate: Tue  2 Apr 2024 15:39:27
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20240402-153909-0191-46704194-p1m.asequence
+#    -bsequence emboss_water-I20240402-153909-0191-46704194-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 1.0
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: X55346.1
+# 2: FN554373.1
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 1.0
+#
+# Length: 1696
+# Identity:     790/1696 (46.6%)
+# Similarity:   790/1696 (46.6%)
+# Gaps:         651/1696 (38.4%)
+# Score: 857.0
+# 
+#
+#=======================================
+
+X55346.1           2 CATAGTGAGTAAGGCAGAATTGATTC--AAGAACCTTTTTTTTTTTTGTG     49
+                     ||| |.|||||  |||.|..|.|.||  |||     .||.||||.|.||.
+FN554373.1       475 CAT-GAGAGTA--GCAAACGTAAGTCTAAAG-----GTTGTTTTATAGTA    516
+
+X55346.1          50 GTTCATTTGGACGT-GTAAATGTACAATTCATTC--ATCAGCTGTTTCTC     96
+                     |    ||.|||.|| |.||||||       ||||  ||..||..|||   
+FN554373.1       517 G----TTAGGATGTAGAAAATGT-------ATTCCGATAGGCCATTT---    552
+
+X55346.1          97 TAGGCTTTTCCCAGGAC-------------CAG-----AAGG--------    120
+                     ||  |.|||....||||             |||     ||||        
+FN554373.1       553 TA--CATTTGGAGGGACGGTTGAAAGTGGACAGAGGAAAAGGTGCGGAAA    600
+
+X55346.1         121 -GTCTGTTCTTGTCATCTGGAGGCCAGCATTGTTTTCTCATACCTTGTG-    168
+                      |.|||.|.|||                |||||||    ||..|||||| 
+FN554373.1       601 TGGCTGATTTTG----------------ATTGTTT----ATGTCTTGTGT    630
+
+X55346.1         169 GA-AA---CACAGCTGGATTGCAACAGTCTTTGTTCTT----TCAAA---    207
+                     || ||   .|||..|   |||| |.|||.||.|.|..|    |.|||   
+FN554373.1       631 GATAATTTTACATTT---TTGC-ATAGTATTAGGTAGTCAGATGAAAGAT    676
+
+X55346.1         208 -AAT-----TAGGACT---ATCACATACAAATATTTTCC----TCTGGTC    244
+                      |||     |||||.|   |..||||| .||||.||.||    | |||| 
+FN554373.1       677 GAATAGACATAGGAGTAAGAAAACATA-GAATAGTTACCATTAT-TGGT-    723
+
+X55346.1         245 ACTAAGGAG---GGATTTAATCTGG---AGTTTAGACC-----AGGA-GC    282
+                         |||||   ||        |||   .||.|||.||     .||| |.
+FN554373.1       724 ----AGGAGTGTGG--------TGGGGTGGTATAGTCCGCATTGGGATGT    761
+
+X55346.1         283 CACAGATTTTTCTGTT----CCTGGCTTCCTCCCCGATTT--GCTGTGGG    326
+                     .||    |||.|||||    |.|||.||  ||||   |||  |.|.|..|
+FN554373.1       762 TAC----TTTCCTGTTATGGCATGGATT--TCCC---TTTAGGGTCTCTG    802
+
+X55346.1         327 AAATCTGCAAATTACTAAGGCTTC------AAGGGCACA-------AAAC    363
+                     ||    ||..|||.|     |.||      ||.||||.|       ||||
+FN554373.1       803 AA----GCGTATTTC-----CGTCACCGAAAAAGGCAGAAAAAGGGAAAC    843
+
+X55346.1         364 TG------GGAT--TAG----------ATGAAGGTAAGCCTGTGTGTCAA    395
+                     ||      ||||  |||          |||..||||       ||||   
+FN554373.1       844 TGAAGGGAGGATAGTAGTAAAGTTTGAATGGTGGTA-------GTGT---    883
+
+X55346.1         396 AACTTA------CCAGAGGCAGAGGTTACAGTTACAGTCAAATGCTGGGA    439
+                     ||..||      ||...||....||||.|.|||   ||.|||       |
+FN554373.1       884 AATGTATGATATCCGTTGGTTTTGGTTTCGGTT---GTGAAA-------A    923
+
+X55346.1         440 GTTCAAATGTGGCTTA-GAAAT----CAGGAAACATTAAAAATAGCTTTC    484
+                     |||   .|.|||  || ||.||    ||.|.|.|||     |||  ||||
+FN554373.1       924 GTT---TTTTGG--TATGATATTTTGCAAGTAGCAT-----ATA--TTTC    961
+
+X55346.1         485 ---TCTGAGATTGCTCAGGAAGATT---TATGTTT---------------    513
+                        |.|||||     .|||.|.|||   |||||||               
+FN554373.1       962 TTGTGTGAGA-----AAGGTATATTTTGTATGTTTTGTATGTTCCCGCGC   1006
+
+X55346.1         514 -------AATCTTTCTG-------TT----AATCAAAGAT-----GGAGC    540
+                            .|| ||||.|       ||    |.|.|||.||     |||.|
+FN554373.1      1007 GTTTCCGTAT-TTTCCGCTTCCGCTTCCGCAGTAAAAAATAGTGAGGAAC   1055
+
+X55346.1         541 TCAG-TGCCTGGTTCTAGCTATGTATTTAGATATATACATGTACTGGTT-    588
+                     |..| |.||.||..| |.||.|...|||.|| |.|.|.||.|||  |.| 
+FN554373.1      1056 TGGGTTACCCGGGGC-ACCTGTCACTTTGGA-AAAAAAATATAC--GCTA   1101
+
+X55346.1         589 -GATTT-----------GTTAATTAGGACAAACTATCTCT--------AT    618
+                      |||||           .||||.|.|    ||.|.|.|||        |.
+FN554373.1      1102 AGATTTTTGGAGAATAGCTTAAATTG----AAGTTTTTCTCGGCGAGAAA   1147
+
+X55346.1         619 TACAACCAATGTA-TT-----------------AGTGGCAAACCATGAAT    650
+                     |||       ||| ||                 || ||||||  |..||.
+FN554373.1      1148 TAC-------GTAGTTAAGGCAGAGCGACAGAGAG-GGCAAA--AGAAAA   1187
+
+X55346.1         651 TA----TTCGGGTTCATTTT-GTTTTATCTCTAGTG---TTGGGGGTTCC    692
+                     ||    |..|     ||||| |||     |.||.||   ..|||||||..
+FN554373.1      1188 TAAAAGTAAG-----ATTTTAGTT-----TGTAATGGGAGGGGGGGTTTA   1227
+
+X55346.1         693 CAAATGGA--ACAGAAACTGTGCA----------TTGTGA--TTCTGTCA    728
+                     ...|||||  ||   ||.|||| |          |||.||  |.|| |||
+FN554373.1      1228 GTCATGGAGTAC---AAGTGTG-AGGAAAAGTAGTTGGGAGGTACT-TCA   1272
+
+X55346.1         729 TGGCTGCCAA------TGATGTAC----TCCAGAAA-----TTCAAAACC    763
+                         |||.||      |||.| ||    ||  ||||     ||..||||.
+FN554373.1      1273 ----TGCGAAAGCAGTTGAAG-ACAAGTTC--GAAAAGAGTTTGGAAACG   1315
+
+X55346.1         764 A----CAG-AGCCTCTG-----CATCACTTTTTTG---GTGGC--GGTC-    797
+                     |    .|| ||.|| ||     |.|.|..||||||   .||||  .||| 
+FN554373.1      1316 AATTCGAGTAGGCT-TGTCGTTCGTTATGTTTTTGTAAATGGCCTCGTCA   1364
+
+X55346.1         798 ----GTGG-GAGGGTTGTTAGTT--TTATCTAAAAGA---GGAGAGTCTG    837
+                         |||| |||.||.|.|||.|  |..||    |||   |...|||||.
+FN554373.1      1365 AACGGTGGAGAGAGTCGCTAGGTGATCGTC----AGATCTGCCTAGTCTC   1410
+
+X55346.1         838 TGAAAGGAAAGACA--------AAGCTTTGGCCAATGG--TGA--CATAA    875
+                     |        |.|||        ||   |||.|  ||||  |||  |.||.
+FN554373.1      1411 T--------ATACAGCGTGTTTAA---TTGAC--ATGGGTTGATGCGTAT   1447
+
+X55346.1         876 TTAGAGGAACAGAATAATTAGAAATAAATCATAACTTCCC----------    915
+                     |.||||..|||    |.||.|.||.|||       |||||          
+FN554373.1      1448 TGAGAGATACA----ATTTGGGAAGAAA-------TTCCCAGAGTGTGTT   1486
+
+X55346.1         916 -CTTCAACCCAACCACTGCTGGAGGTAAATTGGAAGCTTACGGAA---GC    961
+                      |||           .|||     ||   ||  ||.||    |||   .|
+FN554373.1      1487 TCTT-----------TTGC-----GT---TT--AACCT----GAACAGTC   1511
+
+X55346.1         962 TCATGGCTGGG-TTCTAGTTTGGGGTCCCGTTCTGGACTCCCCTG-CCAA   1009
+                     ||||.| |||| .||    |||.|.|.||.|  |||       || .||.
+FN554373.1      1512 TCATCG-TGGGCATC----TTGCGATTCCAT--TGG-------TGAGCAG   1547
+
+X55346.1        1010 CGCAGGAGCATTACATGGGTGGGCT-CTGAAAAACTGA-AGC---CTCCT   1054
+                     ||.||||       .|.|||||..| ||    |.||.| |||   ||..|
+FN554373.1      1548 CGAAGGA-------TTTGGTGGATTACT----AGCTAATAGCAATCTATT   1586
+
+X55346.1        1055 TCAGAAACACACGCCCTGACTCAAGATCCGGCTGGAGTCCAATACTCCTA   1104
+                     ||  |||.|         |.||||..|     |||.|           .|
+FN554373.1      1587 TC--AAAGA---------ATTCAAACT-----TGGGG-----------GA   1609
+
+X55346.1        1105 AAGCCCT-TTGAGGACACGGGCTCACGAATCCCCTGCGCCTGCCTGCACG   1153
+                     |.|||.| ||||..|..|||.|.||.||     |||.|..|  ||.||.|
+FN554373.1      1610 ATGCCTTGTTGAATAGCCGGTCGCAAGA-----CTGTGATT--CTTCAAG   1652
+
+X55346.1        1154 ------CTCGCCT----TCATCCACATGCCTCACGT--------------   1179
+                           |||..||    |||.|.|.||  |..||||              
+FN554373.1      1653 TGTAACCTCCTCTCAAATCAGCGATAT--CAAACGTACCATTCCGTGAAA   1700
+
+X55346.1        1180 --CCTGTGTGTCAGTCTTTGTGAATGAA--TGATGTACACGCACTTGGAA   1225
+                       ||.|.||.||.|| ||.|||   |||  |||| ||.|        |.|
+FN554373.1      1701 CACCGGGGTATCTGT-TTGGTG---GAACCTGAT-TAGA--------GGA   1737
+
+X55346.1        1226 AACT---ATGCTGCTACTGGGAGGGGGCGAGACGGGGTGACCAAGCCCTC   1272
+                     ||||   |...||||| |||.|.|    |.|||||.|||..|..|   ||
+FN554373.1      1738 AACTCAAAGAGTGCTA-TGGTATG----GTGACGGAGTGCGCTGG---TC   1779
+
+X55346.1        1273 AAG------AATGCGTGGAGAATCAGACGGACTTTCCCGAAACGGTGGAG   1316
+                     |||      ||.||.|...||| ||||..|..|||||.|.|     |.||
+FN554373.1      1780 AAGAGTGTAAAAGCTTTTTGAA-CAGAGAGCATTTCCGGCA-----GCAG   1823
+
+X55346.1        1317 -GCGGCCTGTGCACCCAGC-------CTGCA----CACCCGCTCCC   1350
+                      |.|.||||   |...|||       |||.|    ||.|.|.|.||
+FN554373.1      1824 AGAGACCTG---AAAAAGCAATTTTTCTGGAATTTCAGCTGTTTCC   1866
+
+
+#---------------------------------------
+#---------------------------------------

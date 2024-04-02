@@ -1,0 +1,1743 @@
+########################################
+# Program: stretcher
+# Rundate: Tue  2 Apr 2024 16:12:13
+# Commandline: stretcher
+#    -auto
+#    -stdout
+#    -asequence emboss_stretcher-I20240402-161204-0325-75839364-p1m.asequence
+#    -bsequence emboss_stretcher-I20240402-161204-0325-75839364-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10
+#    -gapextend 1
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 1565-18817
+# 2: 5002-22255
+# Matrix: EDNAFULL
+# Gap_penalty: 10
+# Extend_penalty: 1
+#
+# Length: 21282
+# Identity:   10668/21282 (50.1%)
+# Similarity: 10668/21282 (50.1%)
+# Gaps:        8057/21282 (37.9%)
+# Score: 24434
+# 
+#
+#=======================================
+
+1565-18817         1 ACA-----------------------------------------------      3
+                     .||                                               
+5002-22255         1 GCAGTGCGGCGCCTAGAGGGAAAGCGAGAGGGAGACGGACGTTGAGAGAA     50
+
+1565-18817         4 -----------------------CATCC-----------TGGTGGGA---     16
+                                            |.|||           ||||||.|   
+5002-22255        51 CGAGGAGGAAGGAGAGAAAATGGCGTCCACGGGTGAGTATGGTGGAACTG    100
+
+1565-18817        17 --------------------------------------------------     16
+                                                                       
+5002-22255       101 CGGTCGCGCCGGCGGTAGCCGGAACGCCCAAACTGGGGGTCGTTCGTCTC    150
+
+1565-18817        17 ---------------------AGTG-------------------------     20
+                                          ||||                         
+5002-22255       151 TGGGCTTGGCTGGGAAGACTGAGTGGAGTTGCCGAGAGGGGGTTGAGGCA    200
+
+1565-18817        21 --------------------------------------------------     20
+                                                                       
+5002-22255       201 CCCGCCGCGGCCCGACGAGCTCGGGGATCCGCATTCCTCTCCCCTCCCCC    250
+
+1565-18817        21 --------------------------------------------------     20
+                                                                       
+5002-22255       251 AACCGGGCGGGCCGGTTCTGGAATCTTCCGGCGCCCGTGGCGCGCGGGGG    300
+
+1565-18817        21 --------------------------------------------------     20
+                                                                       
+5002-22255       301 GCTTGCTGCGGCGGGGGCGCGCGGGGCCCGCCTTGGCCTCCATTGTGTGG    350
+
+1565-18817        21 --------------------------------------------------     20
+                                                                       
+5002-22255       351 CGGTCCTCGCGCCCTGAGCTCCGGGCCTCCCGCCACGTGGGCGGGGCCTG    400
+
+1565-18817        21 --------------------------------------------------     20
+                                                                       
+5002-22255       401 CGGCCTTCGAGGCCCTGCGTGAAGGGGAGGATTTGGCCAGGCCTCAAGCC    450
+
+1565-18817        21 --------------------------------------------------     20
+                                                                       
+5002-22255       451 GGTCACTATGAAACCGCCGGGGGGCCCGCAGGCTGCTGTCCCTGTGAGGC    500
+
+1565-18817        21 -----------TTTTC---------------------------------T     26
+                                |||||                                 |
+5002-22255       501 CTCCCTCCCCGTTTTCAGGGTTTCCTGAGAAACCAGGGGAAAAAGCAAAT    550
+
+1565-18817        27 ACAGA------------------------------GCCT-----------     35
+                     |.|||                              ||||           
+5002-22255       551 AAAGATACCGTGGATTTGTGGGCCGAGGGGTGCCGGCCTATGAGCGGGAG    600
+
+1565-18817        36 --------------------------------------------------     35
+                                                                       
+5002-22255       601 CCCCGTCATCCTTAAGACCCAGTCGGCTGGGGCGTCTGGCGCTGCCGAGC    650
+
+1565-18817        36 ---------------TTCCA-----------------------CCT----     43
+                                    |||||                       |||    
+5002-22255       651 TGCCCCCTCTGTGGCTTCCAGCCCCAAGCCGAACTTCTGCTCGCCTGGGC    700
+
+1565-18817        44 ---------------------TCCTC--------------------TTCC     52
+                                          |||||                    ||.|
+5002-22255       701 TTTAGACAGAATGTGCTTCCCTCCTCCAGGGCCCCCAGTTTGCCGCTTTC    750
+
+1565-18817        53 TTG-----------------------------------------------     55
+                     |||                                               
+5002-22255       751 TTGGGCTTCTCCATTTTTATCGTTATTAATCCACGTCCTCCCCTCCCCCA    800
+
+1565-18817        56 --------------------CAG---------------------------     58
+                                         |||                           
+5002-22255       801 AAACCAATTAAGTGGCTTCCCAGGGCCCTTTTTCTGCAAACGCCGAGGGA    850
+
+1565-18817        59 -------TGTTTAA------------------------------------     65
+                            |||.|||                                    
+5002-22255       851 CATCCGTTGTATAATAAGGCCAGCCTGGGTCGAGAGACGAGAAACGCTAC    900
+
+1565-18817        66 ---------ATTTTTG------------TAGGGGG---------------     79
+                              ||||.||            ||||.||               
+5002-22255       901 CAGAAAGATATTTCTGGTCTCTCTGACCTAGGAGGAACAAAAGGCCGAGC    950
+
+1565-18817        80 --------GAAT---GTTAC----------------------TCTCCT--     94
+                             ||||   |||.|                      ||.|||  
+5002-22255       951 CTTCATTTGAATTATGTTTCAGCAGTGGCCTCGCACGTTTATTCGCCTGC   1000
+
+1565-18817        95 -TT-----------CCTGTTGA----------------------------    104
+                      ||           ||||||||                            
+5002-22255      1001 GTTAGGCCGGCAGGCCTGTTGATTTCGTAGGTCGACAGAGGAGAGGGGAA   1050
+
+1565-18817       105 --------AGT------------------------------------GTG    110
+                             |||                                    ||.
+5002-22255      1051 AAAAGGCCAGTAGAAGCAATCTTAAAGGCACTTGCAAGCAAGCCCCGGTT   1100
+
+1565-18817       111 GGGA----------------------GTC---------------------    117
+                     ||||                      |||                     
+5002-22255      1101 GGGAACTCCAAAATGGGAGTAGAGTGGTCCTTGATGGAAGGAGCGTTTAA   1150
+
+1565-18817       118 --------------------------------------------------    117
+                                                                       
+5002-22255      1151 GAGTGTCGCCTAGCCATCACCTGCAGTTCGCAATCTGTGGGTACACTAAC   1200
+
+1565-18817       118 -----AAAAT----------------------------------------    122
+                          |||||                                        
+5002-22255      1201 CCGCGAAAATTGGCAGGGTGGAGCATTTTTGCCCCGGGGGTATTCTCAGG   1250
+
+1565-18817       123 --------------------------------------------------    122
+                                                                       
+5002-22255      1251 CCACCTGGTTCCAGGCCTTAGAGACAGTGGGAGAAGATGAGAAGGAAGAC   1300
+
+1565-18817       123 --------------------------------------------------    122
+                                                                       
+5002-22255      1301 AGGAAAAGTTCTGGGCACTCCAGAGTTTTTGGAGTCCAGAATCCAGCAAC   1350
+
+1565-18817       123 -------------------------------------------------G    123
+                                                                      |
+5002-22255      1351 TTAAGGACAGTTTAAGAATTCTCCCCATCTGTGGTCAATAAACAGGTAAG   1400
+
+1565-18817       124 TGT-----------------------------------------------    126
+                     |||                                               
+5002-22255      1401 TGTTGGCTGTTCGTGCCGGGATACCAAAGAGTGGATACCAAAGAGTGCCG   1450
+
+1565-18817       127 -----------------------ACAG-----------------------    130
+                                            ||||                       
+5002-22255      1451 GTAGAAGAGAGGACTGAAATACCACAGCTAACCTCCCGGTGGGAAGTGGT   1500
+
+1565-18817       131 ------------------------------------------TGAAA---    135
+                                                               |||||   
+5002-22255      1501 TTCCTAGGTGCCCTATCCACCCTCTTCTGCTCTGCAAAAGCCTGAAAAGG   1550
+
+1565-18817       136 -------------------TTTTTGTGTGGCTGGACATGCCAGTTTCTTG    166
+                                        ||||||.||||||||||.||||  |||.||.
+5002-22255      1551 CAAAACGTGTGCGTTGACATTTTTGCGTGGCTGGACGTGCC--TTTTTTC   1598
+
+1565-18817       167 -GTTTACTTCGCTCAAA--TTGTTTATTGGAAACCTCCATAT-----ATT    208
+                      ||..||||.|.|||||  |||||.|...|.|||..||||.|     |.|
+5002-22255      1599 AGTCAACTTTGTTCAAACCTTGTTCACCAGTAACTACCATGTGCTGTACT   1648
+
+1565-18817       209 ATAGTAGAATTACAGTTGTGTTTTACATAGACACACAGTAG------TAT    252
+                     .||.||||||||||||||||.|||...|.||||||.||||.      ||.
+5002-22255      1649 GTATTAGAATTACAGTTGTGGTTTCTGTTGACACAAAGTAAACACATTAG   1698
+
+1565-18817       253 GCCAG-CTGGAGG---CTT---ATACTTAC---------CTGGACTTTGG    286
+                     |||.| ||||.||   |||   |.|.|.||         ||||.|.||.|
+5002-22255      1699 GCCTGGCTGGGGGGGCCTTCAGAGAGTCACATAAGTAATCTGGTCCTTAG   1748
+
+1565-18817       287 TTTCCTTTCCTTCAAAAT---GAAGGCACGAGCCTAGATCTTTTAAGAGC    333
+                     |||||||||||..|||||   ||||..|   |.|||||.||.||||  ||
+5002-22255      1749 TTTCCTTTCCTGTAAAATACAGAAGTTA---GGCTAGACCTCTTAA--GC   1793
+
+1565-18817       334 TTTTTGAACCCTTAACCTCTTGACCTTACAGCA-AAGCTTTTGGTTTCCA    382
+                     |||| ||.|||||     || ||||||.||||| ||||.|      ||||
+5002-22255      1794 TTTT-GAGCCCTT-----CT-GACCTTCCAGCATAAGCAT------TCCA   1830
+
+1565-18817       383 CAAATT-GCCCCATACTGACTTTAACTCCCTAGGTAGCT-TGAAGCTCTA    430
+                     |||||| |.||.||.|||||||.|.|||   ||||| || ||||||||  
+5002-22255      1831 CAAATTTGTCCTATGCTGACTTCAGCTC---AGGTA-CTGTGAAGCTC--   1874
+
+1565-18817       431 AATCTC---TACTGTTTTTAAAGCA-----------------TCTAAA--    458
+                     || |||   ||.||    |.|||||                 ||||||  
+5002-22255      1875 AA-CTCAGGTAGTG----TGAAGCAGCTTCCATAGTGACTGCTCTAAAGT   1919
+
+1565-18817       459 ----AGCCACTATTTTAGGTCAAGA-TGGATGGTTTTTCTTCTCATGTAT    503
+                         |.||..|...||.|||.||.| |.||.|.|||.|||.|||  ||||
+5002-22255      1920 GTTAAACCGTTGCCTTGGGTTAATAATAGAAGTTTTCTCTCCTC--GTAT   1967
+
+1565-18817       504 ATTA---CGTATAGGAGAGTAG----AG--TATTTGTCCAGTCTAACAAA    544
+                     .|||   |.|.|||.|.||||.    ||  |||.|.||||||..||||||
+5002-22255      1968 GTTATCTCATGTAGAAAAGTACGTAAAGCATATATATCCAGTGCAACAAA   2017
+
+1565-18817       545 GAATTAAAATGCAAACTCCCAAGTCACCACCAAGAAGAGAATGTTGCCAG    594
+                     |||||..||||||.||||.|| | ||  |.|.||||              
+5002-22255      2018 GAATTGGAATGCAGACTCGCA-G-CA--ATCTAGAA--------------   2049
+
+1565-18817       595 CATTTTAGGGGCCCCCTGGATTACAGCCCTTGCTTCTCCATC----TGTC    640
+                                 ||||       ||||.|       ||.|||    ||..
+5002-22255      2050 ------------CCCC-------CAGCGC-------TCAATCACAGTGAA   2073
+
+1565-18817       641 CTGTATTTTTAGTGAAGTCTTCAGCTGCACAGTTAGGGGTTAAAAACAAA    690
+                     .|| |||||||||||||||....||| |||..||.||||||||||||.||
+5002-22255      2074 GTG-ATTTTTAGTGAAGTCAGTGGCT-CACTTTTGGGGGTTAAAAACGAA   2121
+
+1565-18817       691 GCATGACTGCTAAAAAATCTGACCATTGTGTAAT------------GACC    728
+                      ||.|..||||.||.||||||||||.|.||||||            |..|
+5002-22255      2122 -CACGGTTGCTGAATAATCTGACCAGTTTGTAATTGTATTAGGTTGGTGC   2170
+
+1565-18817       729 A-------TT---TTTGACTCCA--TACAT---TTG--TGAG--------    753
+                     |       ||   ||||..||.|  || ||   |||  ||||        
+5002-22255      2171 AAAAGTAATTACGTTTGCATCAACCTA-ATAGCTTGCTTGAGGGCCTGTG   2219
+
+1565-18817       754 ----TTGTAGGTAGATAACATAGGTAGATAAACGTAAGTTTTCAGGAAAC    799
+                         ||||  || |.|  | ||||.|||||||.|||||||  ||.|||||
+5002-22255      2220 ATGTTTGT--GT-GCT--C-TAGGAAGATAAATGTAAGTT--CATGAAAC   2261
+
+1565-18817       800 AAGTTTGCTCCCTCCTTTAGCCCACCA-------TGGGACTAAATGGGTT    842
+                     ||.||||||.|||.||.||||||||||       |.||.|..|||....|
+5002-22255      2262 AAATTTGCTACCTTCTATAGCCCACCAGTTAGTATAGGGCCGAATCCTGT   2311
+
+1565-18817       843 GCTTTCTCACTGATCTGAGATCATTCGTTGTTCCATATCAGCTTTGCCAG    892
+                     |.||||||||||||..|||.|||||.||||||||||||||||||||||||
+5002-22255      2312 GGTTTCTCACTGATAAGAGGTCATTGGTTGTTCCATATCAGCTTTGCCAG   2361
+
+1565-18817       893 TTTTCTGTTTTACATAACTGTTCTCGTGTAAAAGTCCTCTTGCAAA-GTT    941
+                     |||..|||||||||||||||.|||.|.|||||||||.||||||||| |||
+5002-22255      2362 TTTGATGTTTTACATAACTGCTCTTGCGTAAAAGTCGTCTTGCAAACGTT   2411
+
+1565-18817       942 GAACTTCCATGTCAGCAATTTAGAATCATTTCTCACATGAGACACCTCAG    991
+                     ||||||.||||.|||..|||||.|||||.|||||| |..|.|.||||||.
+5002-22255      2412 GAACTTACATGACAGTGATTTACAATCACTTCTCA-AGCAAAGACCTCAA   2460
+
+1565-18817       992 CAAAACGTAGGTTGAAATATTTTATTTTTGATGCATCATT----TGTTT-   1036
+                     ||||||||.||||.||||||||.||.||..|||..|||||    ||||| 
+5002-22255      2461 CAAAACGTGGGTTAAAATATTTGATGTTAAATGATTCATTGCTGTGTTTA   2510
+
+1565-18817      1037 ---TGTAAATGCCACATGGAAGAAGTGATTTGCATTTATTTTTTATGTGC   1083
+                        ||||.|||||||||||||.||.||||.||||||||.||||.||||  
+5002-22255      2511 TTTTGTAGATGCCACATGGAAAAAATGATCTGCATTTAGTTTTAATGT--   2558
+
+1565-18817      1084 TGCATAGAAAGCATGAGTTGTAGTGCTACTGAAAATGCCTTACGGTTTAA   1133
+                       ||.|||.||.||||.|||||||||||.||||||||||||         
+5002-22255      2559 --CAGAGAGAGTATGACTTGTAGTGCTATTGAAAATGCCTT---------   2597
+
+1565-18817      1134 CCTTAAAATGCCATAAGATTGTCTTGAA----TCAATGTGTTCATTACAC   1179
+                                  ||||||||||.||||    |.|.|.|.|||||||.|.
+5002-22255      2598 -------------TAAGATTGTCATGAACAGATTATTTTTTTCATTATAG   2634
+
+1565-18817      1180 AAAA-CCTTTAGGCAGTTGATTTGATG---TTGATGAATCAAGGTTCTGA   1225
+                     ...| |||||.|||||||||||||.|.   |||.|||.|||.||||.|||
+5002-22255      2635 GTTAGCCTTTGGGCAGTTGATTTGTTCCTCTTGGTGATTCAGGGTTTTGA   2684
+
+1565-18817      1226 GTTAAG---GATGTACAGAGGAAGTAAAGTAGT----TAAGGTAAAGAG-   1267
+                     ||||||   | ||||||.|||||..||||||||    |||.|||.|||| 
+5002-22255      2685 GTTAAGAGTG-TGTACAAAGGAAAGAAAGTAGTCCAGTAAAGTACAGAGA   2733
+
+1565-18817      1268 -GTAGAAAGGTGATCCTACTTTGAA-AGATGGATTCACCACAATGCTCTC   1315
+                      ||||..||.|.|.||.||.| ||| |||||||||||.||.|...|||||
+5002-22255      2734 GGTAGGCAGATAAGCCAACGT-GAAGAGATGGATTCAGCAAAGCTCTCTC   2782
+
+1565-18817      1316 AGGTC----AGGTGAACTGTGAGGCAGGCTTTTGAT-------AGTG--T   1352
+                     |||.|    ||| ||. ||||||||.||||||.|||       ||||  |
+5002-22255      2783 AGGCCGCCGAGG-GAT-TGTGAGGCTGGCTTTGGATTCCATGAAGTGGAT   2830
+
+1565-18817      1353 GGGGGTAGGAACTTCTCCGTGAAGAGCTGAGACGTCCATTGTTGCTTTCA   1402
+                     |               ||.||||||||||     ||.|||||||.|||..
+5002-22255      2831 G---------------CCATGAAGAGCTG-----TCAATTGTTGGTTTTG   2860
+
+1565-18817      1403 AATGAGGAGCTACTT-CTGATTGGAAAAGAAAGGACCCTTTTGTTCAGTA   1451
+                     .||||||..|||||| ||||||||||||.|||||||||.|||.|||.||.
+5002-22255      2861 GATGAGGGACTACTTTCTGATTGGAAAATAAAGGACCCCTTTTTTCCGTC   2910
+
+1565-18817      1452 CTAATAGCAGTACTGTTTTCTAG-CGTAGAATAAGATAATGTATTTCTTG   1500
+                     |||||.||||||||||.||| || |  ||||.|||||| |||.|| ||||
+5002-22255      2911 CTAATGGCAGTACTGTCTTC-AGAC--AGAACAAGATA-TGTGTT-CTTG   2955
+
+1565-18817      1501 TGGAGAGCAAAGCATTGGGCAGAACTTTTAAAAATACTTG-TTTAAAGGG   1549
+                     ||||||..||||.|||||||||||.|||.|||||||.||. |||||    
+5002-22255      2956 TGGAGAAGAAAGAATTGGGCAGAATTTTCAAAAATAATTACTTTAA----   3001
+
+1565-18817      1550 GC-GCCTGGGTGGCTCAGTGGGTTAAAGCCTCTGCCTTCGGCTCAGGTNN   1598
+                      | ||||               |||||                       
+5002-22255      3002 -CTGCCT---------------TTAAA-----------------------   3012
+
+1565-18817      1599 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   1648
+                                                                       
+5002-22255      3013 --------------------------------------------------   3012
+
+1565-18817      1649 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   1698
+                                                                       
+5002-22255      3013 --------------------------------------------------   3012
+
+1565-18817      1699 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNACTTAAAGTACGTA--T   1746
+                                                      |||.||..||..||  |
+5002-22255      3013 ----------------------------AAAAAACTAAATTTATCTAACT   3034
+
+1565-18817      1747 TTAGTTTGGAAGTGCTGTGAAAACTTCTTAATCATTTTATTTTCTGTTTG   1796
+                     |||.|...|.||.|||.||||||||             ||||||.|||||
+5002-22255      3035 TTAATGCAGTAGCGCTCTGAAAACT-------------ATTTTCCGTTTG   3071
+
+1565-18817      1797 TTTTCACTACTTTTATAGAGCCCTCAGTGGACCAGTTTTTTGTCCCTTTT   1846
+                     ||||.|||||||.|  |||..|||||||||||||||||||.||||||||.
+5002-22255      3072 TTTTTACTACTTGT--AGACACCTCAGTGGACCAGTTTTTGGTCCCTTTG   3119
+
+1565-18817      1847 TGTGTAT-TTATACATTTTGTATGAAAAGAGAAA------GGAAAGATTA   1889
+                     ..||.|| |||||.||||..||.|||||| ||||      ||.|.|.|||
+5002-22255      3120 GATGCATGTTATAAATTTCATAGGAAAAG-GAAAATTATAGGGAGGTTTA   3168
+
+1565-18817      1890 TGTAGAGAGAAGCGAAGAAAAGTAAAGTTGTGGGGTTTTTTTTTTTCTTG   1939
+                     ..||||.|  ||.||.|||||.|.|   |||        .|||||| ||.
+5002-22255      3169 CTTAGATA--AGGGATGAAAATTCA---TGT--------CTTTTTT-TTA   3204
+
+1565-18817      1940 AGTTGAAATCATTGCGAGTTTT-TAAAAGT---TGATGTTACCTAAAACC   1985
+                     |||||||||||||..|||||.| |.||||.   ||.|||||||  ||   
+5002-22255      3205 AGTTGAAATCATTTTGAGTTGTATGAAAGACAATGGTGTTACC--AA---   3249
+
+1565-18817      1986 ATATTACTCCCAAAAAGATGACGTGCTTT--CTTCTCTGCCAGTTATCAG   2033
+                       |||..|||||.|||||..|..||||||  |||||.|||||||..||||
+5002-22255      3250 --ATTTTTCCCAGAAAGACTAAATGCTTTTTCTTCTTTGCCAGTCTTCAG   3297
+
+1565-18817      2034 GATTCTGTCTTAACTCTGCT------GTGATTTTTATTGTGTCTAGCTTT   2077
+                     |.|||||.||||.|||||||      |.| |||.||.|.|.|||||||||
+5002-22255      3298 GGTTCTGCCTTAGCTCTGCTTCACCAGGG-TTTATAATATATCTAGCTTT   3346
+
+1565-18817      2078 TGACTTACTGTAGAAATTTAGCCCTGATACAGTCAGGAAAGCCTTTGAAA   2127
+                     |.|.||.|||.|.||||.|||..|||  |||  |||.|||.|||||.|||
+5002-22255      3347 TAAGTTGCTGCACAAATATAGTTCTG--ACA--CAGCAAACCCTTTAAAA   3392
+
+1565-18817      2128 TACTG-AGTTGAGATGGTGTCT---TT------TGCCCCTCCATGTCACA   2167
+                     .|||| |||   | |||||.||   ||      ||||..|||.|.||||.
+5002-22255      3393 CACTGGAGT---G-TGGTGACTGCCTTCTTGTCTGCCATTCCGTTTCACT   3438
+
+1565-18817      2168 GCTCT----GCTGTGGAATTACGGTT---------------AGTGAGGA-   2197
+                     | ||.    |||..|||||.|.||||               |||||||. 
+5002-22255      3439 G-TCGTTGAGCTAGGGAATGATGGTTTGTCTAACTTGCTAAAGTGAGGGG   3487
+
+1565-18817      2198 AGTGATAGAAAAACTAGGTTTTGGGGAGATGCAGCTGCTATTGTAACCAG   2247
+                     ||||     |||||||..|||||.|||||.|.||.|.|||..|||||||.
+5002-22255      3488 AGTG-----AAAACTAATTTTTGAGGAGAGGTAGGTTCTAACGTAACCAA   3532
+
+1565-18817      2248 TCTGATGTTAAACACTGTAATATTGTGGCATGCCTCGTTTTTATATGAAG   2297
+                     |||..||||||||..||||.||||||.|||||||||..||||||||||.|
+5002-22255      3533 TCTAGTGTTAAACTTTGTATTATTGTTGCATGCCTCCGTTTTATATGAGG   3582
+
+1565-18817      2298 GTA-AAACTTGGGTTCGTGTTGGTTCATCTTGTTTTCTGTTAGTCTCAG-   2345
+                     ||| ||||||..|.||.||||.||..||||||||.||    |||||..| 
+5002-22255      3583 GTAGAAACTTCTGATCCTGTTAGTAGATCTTGTTGTC----AGTCTGTGA   3628
+
+1565-18817      2346 ----GATGATCAT---GTATTTGAAATGACAGCCTGCAGTTAAGGGAGGG   2388
+                         |||||||||   ||||||.||||||       |||||  ||||..|
+5002-22255      3629 TATTGATGATCATCCTGTATTTTAAATGA-------CAGTT--GGGATTG   3669
+
+1565-18817      2389 GG--GG---TTGTGGTCATGGGAACCTTTAAAGTAT--CTGCCAGATCAG   2431
+                     ||  ||   ||||||||||||||||.|..|||||||  ||||||.|||||
+5002-22255      3670 GGATGGGTTTTGTGGTCATGGGAACATAAAAAGTATACCTGCCAAATCAG   3719
+
+1565-18817      2432 CTGATCTTGACCTCATTAGCTGGCACTATATTTCAAACTTTCTGAGTTTA   2481
+                     |||||||||||||||||||||.|..|.|.|.| ||||  |..||||||||
+5002-22255      3720 CTGATCTTGACCTCATTAGCTAGTCCCACAGT-CAAA--TGTTGAGTTTA   3766
+
+1565-18817      2482 ACTGGCTTAGACTCATATTTTGGTTTGGTGTTAAGGGAGAAGAGATACTC   2531
+                     |||||.|||||||..|.|||..|||.|.||||.||.|..|||.|..||||
+5002-22255      3767 ACTGGTTTAGACTTTTTTTTCTGTTAGATGTTGAGAGGTAAGGGGGACTC   3816
+
+1565-18817      2532 ATTTGGATCTGTGTTGGCCTGTACTTCCTCTCAATGAACAGTTTAAAGAA   2581
+                     |||||||.||||||||||..|| ||.|||        |||||||||||||
+5002-22255      3817 ATTTGGACCTGTGTTGGCAGGT-CTCCCT--------ACAGTTTAAAGAA   3857
+
+1565-18817      2582 TTTATCTTCCT-CCACCTGAATTCCTCCTCCCCCTATTTTTTC-CTTCTC   2629
+                     ||   |||||| ||||.|||||||.|  ||||||  ||||||| ||||||
+5002-22255      3858 TT---CTTCCTGCCACGTGAATTCTT--TCCCCC--TTTTTTCTCTTCTC   3900
+
+1565-18817      2630 CTTGTCTCTGCTGACTTCACATTATTTTCTCTTCTCGTTTTC-TCTAGAT   2678
+                     |||||.||||||.||||.|||.||||||..||.||.|||||| |||||||
+5002-22255      3901 CTTGTTTCTGCTAACTTTACACTATTTTTCCTCCTTGTTTTCCTCTAGAT   3950
+
+1565-18817      2679 TACAGTACATACAGCCAAGCTGCAGCCCAGCAGGGGTAAGTCAGTCTTTT   2728
+                     ||||||||.||.||||||||||||||.|||||||||||||||||||||||
+5002-22255      3951 TACAGTACCTATAGCCAAGCTGCAGCGCAGCAGGGGTAAGTCAGTCTTTT   4000
+
+1565-18817      2729 GTAACAGTACTTTGGGTGTGATTGATTATAATGTTTTTAGAGTACCAAGG   2778
+                     .||||.|||.||||.||||||||      |||.|||||.||.||...||.
+5002-22255      4001 ATAACCGTATTTTGTGTGTGATT------AATATTTTTTGAATATGGAGC   4044
+
+1565-18817      2779 CTCCTGGAGTTGTAGAGGACTTTTTAATGGAATCTGAATGCTCTGTATTC   2828
+                     ||.||..|.|||||||||         |||.||.||||||.|||.|||||
+5002-22255      4045 CTTCTATAATTGTAGAGG---------TGGTATTTGAATGTTCTCTATTC   4085
+
+1565-18817      2829 A-GTTCTTGCGTTTAATTTCTTTTACAGCTACAGTGCATACACCGCCCAA   2877
+                     | |||.||||.||||||| |||||.||||||||||||.|||||||||||.
+5002-22255      4086 AAGTTATTGCATTTAATT-CTTTTGCAGCTACAGTGCTTACACCGCCCAG   4134
+
+1565-18817      2878 CCCACTCAAGGATATGCACAGACCACCCAGGTAATCTTTAAGTTATTTGG   2927
+                     |||||||||||||||||||||||||||||||||||||||||..||.||..
+5002-22255      4135 CCCACTCAAGGATATGCACAGACCACCCAGGTAATCTTTAAAATAATTAC   4184
+
+1565-18817      2928 ATGTGGTTATAT-TCCAA--AACAA--AGTAT-TTCTGTCATCCA-TTAA   2970
+                     ||||.|.|..|. |||||  || ||  ||||| ||     ||||| ||| 
+5002-22255      4185 ATGTAGCTGCACCTCCAAGTAA-AATCAGTATATT-----ATCCAGTTA-   4227
+
+1565-18817      2971 AACAACAGCTAGTACAGCTCTTTTTTAAAAATCAGGTA-CTAGGAAAATA   3019
+                                       |||||         |||.|| |.||.||||.|
+5002-22255      4228 ------------------TCTTT---------CAGTTATCCAGTAAAACA   4250
+
+1565-18817      3020 --TGA----TGTGCTTATTATCATTAAAGTTCTCAGGTGTTTTATACTTT   3063
+                       |||    ||||.||...|| |.||||.|.|.||||..|||||.|||||
+5002-22255      4251 AATGAGTAATGTGTTTGGAAT-AGTAAAATACCCAGGCATTTTAAACTTT   4299
+
+1565-18817      3064 CACGGTGGGAGTGC---------CATT--------ATAAATGACACCATC   3096
+                     |||.||||||||||         ||||        ||||||||.|||||.
+5002-22255      4300 CACAGTGGGAGTGCGAAGGACTCCATTGTGCCATCATAAATGAAACCATT   4349
+
+1565-18817      3097 CCCAAACTGGGAGTTGCTAGCTCTCCGCACCTTTCTAGTATCATTTCTCA   3146
+                     |..||.|||..|.|||  | ||||....|.||||.||.|||.||||||||
+5002-22255      4350 CAGAAGCTGATAATTG--A-CTCTTTATAACTTTTTAATATGATTTCTCA   4396
+
+1565-18817      3147 AGTTAAGTGCCCTGCTCAGTAGTTAG-TTGGTCCTTCTACATATTGTATT   3195
+                     |||||.||||||||.||..|     | |||||||||||.|||       |
+5002-22255      4397 AGTTAGGTGCCCTGTTCCAT-----GCTTGGTCCTTCTTCAT-------T   4434
+
+1565-18817      3196 ATGTTTAAATTAATTTAATTTAGTT--TTATAGTAGTTCTGCA---GAAG   3240
+                     |||||||||||.|.|.|||||| ||  |.||||.|.|||||||   ||||
+5002-22255      4435 ATGTTTAAATTTAGTGAATTTA-TTCATCATAGCAATTCTGCAAAGGAAG   4483
+
+1565-18817      3241 AAGATGTTATTAGGAC-ATTTTGCAAACGAAAAAATTGCAGCACAAAGAG   3289
+                     |.||||.|||   ||| |||.||||.|.||.||.|||||||..||.|||.
+5002-22255      4484 AGGATGATAT---GACCATTCTGCAGAGGAGAACATTGCAGTGCATAGAT   4530
+
+1565-18817      3290 AG---GTCATTTGCCAGTGGCCACATAGTAAATGACAGGGTCAGCTCTAT   3336
+                     |.   ||.|.||||||||||...||.|||||.||.|.||||.|||||||.
+5002-22255      4531 ATTAAGTAACTTGCCAGTGGTTGCACAGTAAGTGGCGGGGTTAGCTCTAA   4580
+
+1565-18817      3337 A---TGGCTGCCTAGCTACAGAGCTTCTGAGCCCTTTCCAGTACATGAGT   3383
+                     |   ||||..||||||.|..|||||.||||||.|||||||||..| ||||
+5002-22255      4581 AAACTGGCGACCTAGCCAAGGAGCTGCTGAGCTCTTTCCAGTGAA-GAGT   4629
+
+1565-18817      3384 TTGTGTTTAAAAGCCTAGGCCAACAGATTCTAGAAATTAGCATCCTAGTG   3433
+                     .||  ||.|||||||||||||||||||||||||||||||||.|.||||||
+5002-22255      4630 CTG--TTGAAAAGCCTAGGCCAACAGATTCTAGAAATTAGCCTTCTAGTG   4677
+
+1565-18817      3434 TTCTCAAGACCACTTCGAATTCTGAAATTGTCAGTGACATAAAATGGGTA   3483
+                     ||.||||||..|..|.||||||||||||..||..||.||||||||||.||
+5002-22255      4678 TTTTCAAGATAATGTTGAATTCTGAAATGATCCATGCCATAAAATGGATA   4727
+
+1565-18817      3484 CTAATAACTGCCATTGAAATAT--TCTAGGACAGACAGATGTGTGATGCC   3531
+                     ||||||||||||||.||||.||  |||||||||..||||. |||||||.|
+5002-22255      4728 CTAATAACTGCCATGGAAACATGTTCTAGGACAAGCAGAA-TGTGATGTC   4776
+
+1565-18817      3532 TCTGACAGGTCTTACATAACTGGTCATT----CAAATCTAGAATGTGATC   3577
+                     ||||.|||.|||||||||||||||||||    ||||.|||||...|.|||
+5002-22255      4777 TCTGGCAGATCTTACATAACTGGTCATTTAAACAAACCTAGAGAATAATC   4826
+
+1565-18817      3578 ATGCTGATAGCTGGAAGAATACCTCATTCCTTGCCAGA--------ATAC   3619
+                     |||||.|||.|||.|||||.|.||| |||||||||.||        ||..
+5002-22255      4827 ATGCTAATATCTGAAAGAACAACTC-TTCCTTGCCTGATTTTAAGTATTA   4875
+
+1565-18817      3620 TG-ATGTCCAAGTTCAAAAGACAGT--TTTTGATATGTTAACCTTAAGGA   3666
+                     || |||||.||||||||||||||||  |.|||||.||...|||.||||..
+5002-22255      4876 TGGATGTCTAAGTTCAAAAGACAGTACTCTTGATGTGCCCACCATAAGAG   4925
+
+1565-18817      3667 TACTTGCAGTGTTCTGGTTCATTTTCTTTGAAGTGGTGTA--ACTTTTTA   3714
+                     .||.|.|||.|||||||||||||||||||||||||||.||  |.||||.|
+5002-22255      4926 GACATACAGCGTTCTGGTTCATTTTCTTTGAAGTGGTATAGTAGTTTTAA   4975
+
+1565-18817      3715 AATATTTAGGTCAAGCTGAAAATCTGGTTTTCAAA-----CTAACAGATT   3759
+                     |.|.|||..||||.||||||||||||||||||||.     ||.|||||||
+5002-22255      4976 AGTCTTTTTGTCAGGCTGAAAATCTGGTTTTCAATTTTTTCTGACAGATT   5025
+
+1565-18817      3760 TTAATCCCATTTTCCTTTTCTTTCTCTTGGTTCATTTTGTCTTCCTAACG   3809
+                     |||  .||.|.|||.||. ||||||||  |||||||| ||||||.||.|.
+5002-22255      5026 TTA--GCCCTCTTCATTG-CTTTCTCT--GTTCATTT-GTCTTCGTACCT   5069
+
+1565-18817      3810 TTTGTCTCCAGTTGCTAAAAAACGGTGCTACACTAAGTGCTGGCAATTAC   3859
+                     |||||.||||.|..||||||  |.|||||||.|||||||||.|||.|||.
+5002-22255      5070 TTTGTTTCCAATCACTAAAA--CTGTGCTACGCTAAGTGCTAGCAGTTAA   5117
+
+1565-18817      3860 -ACACCTGTTCCGTTATTGCCCATCCCTTGAGAGTGTCTTGTTAATATCC   3908
+                      ||||||||.||.|||||||.|.|||||||||||||||||||||||.||.
+5002-22255      5118 TACACCTGTGCCCTTATTGCTCTTCCCTTGAGAGTGTCTTGTTAATCTCA   5167
+
+1565-18817      3909 TGTATAGTTAACTGAGAGTTTGCCTCATTATCTC----------------   3942
+                     ||||||||||||||||..|||||||.|||||||.                
+5002-22255      5168 TGTATAGTTAACTGAGGTTTTGCCTGATTATCTTTTTTTTCCCCCTTTTG   5217
+
+1565-18817      3943 AGGAACT-------------------------------TTTTT--GTA--   3957
+                     ||.|.||                               |||||  |||  
+5002-22255      5218 AGAAGCTGTGAATGACATTGCCTACTTACCTAATGAGCTTTTTCCGTAGC   5267
+
+1565-18817      3958 -AAGTTTATAAAAATACAAGTGGATTAGGTAAGGGA-AAGCAAGCATTCA   4005
+                      ||.||||..|.||||..||||.|..||.||||||| ||     ||||||
+5002-22255      5268 TAACTTTACCATAATATGAGTGAACCAGATAAGGGATAA-----CATTCA   5312
+
+1565-18817      4006 TGATACTGTGATCACTTGTCT--------------------GTTTTTTAC   4035
+                     ||||||||||||.|.||||||                    |||||||. 
+5002-22255      5313 TGATACTGTGATTATTTGTCTTGTTTTGTTGTTTTTGTTTTGTTTTTTT-   5361
+
+1565-18817      4036 AATGTTTACTAGAAAGCAGTAGTTCTGGCTTTGATGCTTCCAATTTAG--   4083
+                     |||.||  ||||||||.|.|..||.||..||||.|.|| |||||||||  
+5002-22255      5362 AATCTT--CTAGAAAGGAATGTTTTTGATTTTGGTTCT-CCAATTTAGTC   5408
+
+1565-18817      4084 ---------------AGAC-----TT---------AGTTCTA--AGTCGT   4102
+                                    |.||     ||         ||||||.  |.||||
+5002-22255      5409 CATTTTATTGCTAAAATACAAAAGTTCATGTATGAAGTTCTTGCATTCGT   5458
+
+1565-18817      4103 TTTTTTTT----------TTTG-----------TTT------TTT-----   4120
+                     ||||||||          |.||           |.|      |.|     
+5002-22255      5459 TTTTTTTTGGAGCAGGCATATGGGCAACAAAGCTATGGAACCTATGGACA   5508
+
+1565-18817      4121 ------TTTTTT----TTTTNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   4160
+                           |..|.|    |.|                               
+5002-22255      5509 GCCCACTGATGTCAGCTAT-------------------------------   5527
+
+1565-18817      4161 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   4210
+                                                                       
+5002-22255      5528 --------------------------------------------------   5527
+
+1565-18817      4211 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   4260
+                                                                       
+5002-22255      5528 --------------------------------------------------   5527
+
+1565-18817      4261 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTCAGACCA   4310
+                                                               ||||||||
+5002-22255      5528 ----------------------------------ACCCAGGCTCAGACCA   5543
+
+1565-18817      4311 CTGCTACTTATGGGCAGACTGCCTATGCAACTTCTTATGGACAGCCTCCT   4360
+                     ||||.||.|||||||||||.|||||||||||||||||||||||||||||.
+5002-22255      5544 CTGCAACCTATGGGCAGACCGCCTATGCAACTTCTTATGGACAGCCTCCC   5593
+
+1565-18817      4361 GCTGGTAAGGCCTGCCTTGGAGAGACTTTTAGATCATAGCCACTGGGGTG   4410
+                     .||||||||||||||||||||||||.||||.|.||.|.....||.|||..
+5002-22255      5594 ACTGGTAAGGCCTGCCTTGGAGAGATTTTTGGGTCGTTCTGGCTAGGGCA   5643
+
+1565-18817      4411 TTTGCCAAGAATCTTGTTATGT-ATGCCCTCAGGTGTATATTCTTTTCCA   4459
+                     ||.||.|||||.|||.||| || ||||..||.|.||||||||||..||||
+5002-22255      5644 TTGGCTAAGAAGCTTATTA-GTCATGCTTTCGGATGTATATTCTGGTCCA   5692
+
+1565-18817      4460 TACCATGGCATCTGAGGA-TCCTTTATTCTTAGATGGAG---------CT   4499
+                     ||||.|||||||||.||| ||||||||||||||...|||         ||
+5002-22255      5693 TACCTTGGCATCTGGGGAATCCTTTATTCTTAGGAAGAGGTATTTTTTCT   5742
+
+1565-18817      4500 CCCCCCCCCCACACACCGTTCCCCTATAGTCTTCTGAAGGATTTCTGAAA   4549
+                     |...|..|||        |.|.|.||||||||  |||..|||.||..|.|
+5002-22255      5743 CTTTCTTCCC--------TACTCTTATAGTCT--TGAGAGATCTCCAATA   5782
+
+1565-18817      4550 GAATGTGGGTGGGATAATTTCC---------------TTTTAACTATTTC   4584
+                     |||||||||||||||||.||||               ||||||||.||| 
+5002-22255      5783 GAATGTGGGTGGGATAAATTCCAAGAGAGAAAAGAACTTTTAACTGTTT-   5831
+
+1565-18817      4585 AGTCAGTGTATCGAATAATCTTATAACAAAATGGAGAATATGTAAAAGAT   4634
+                                 |||||||||.|..|..|||||||||.||||||||||||
+5002-22255      5832 ------------GAATAATCTCACGATGAAATGGAGACTATGTAAAAGAT   5869
+
+1565-18817      4635 TGTGCTAATGGTAATACTGGGTAAGAATGAGCCTTCTTAAAGTGAGCTGC   4684
+                     |.||||||||.||||||||.|||||||||||.|||||||||.||||||||
+5002-22255      5870 TTTGCTAATGCTAATACTGAGTAAGAATGAGTCTTCTTAAATTGAGCTGC   5919
+
+1565-18817      4685 TTAAAA-TCAAACTGATTTTCACATCTGTTTGCTTCATCTGATAGTGTAC   4733
+                     |||||| ||||||||.|||||||||  |||||||||||||||||||||||
+5002-22255      5920 TTAAAAATCAAACTGGTTTTCACAT--GTTTGCTTCATCTGATAGTGTAC   5967
+
+1565-18817      4734 CCTCTACTTTTTGTTTTGTGCTTTCCACAGTAGAAGGGACCAGTACAGGT   4783
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+5002-22255      5968 CCTCTACTTTTTGTTTTGTGCTTTCCACAGTAGAAGGGACCAGTACAGGT   6017
+
+1565-18817      4784 TTGACTATCCTGCTCATTCTTGCATGGGAAATGCTTTCCATCTTGTCTAA   4833
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+5002-22255      6018 TTGACTATCCTGCTCATTCTTGCATGGGAAATGCTTTCCATCTTGTCTAA   6067
+
+1565-18817      4834 CCTTGTAATGTTGACCCTTTAGGTGTTTTCATCTGTTTAACCCTCAAACT   4883
+                     ||.|||||||||.|.|||||||||||||||||.||||.|||||.||||||
+5002-22255      6068 CCCTGTAATGTTAATCCTTTAGGTGTTTTCATTTGTTGAACCCCCAAACT   6117
+
+1565-18817      4884 TTCTAACATCACACACAACAAGGTGCTAATGGGAAATTGCTTCAGGTGCC   4933
+                     |||||||||||||||||.|||||||||||||..|||.|||||||||||||
+5002-22255      6118 TTCTAACATCACACACAGCAAGGTGCTAATGAAAAACTGCTTCAGGTGCC   6167
+
+1565-18817      4934 ATTCACAGATCCATGTTCTTTTCTTTTTGTGATTTTGGGAGAGGTTTTGC   4983
+                     |||..|||||||||||.||.||||||.|.|||||||||||.|||||||  
+5002-22255      6168 ATTTGCAGATCCATGTCCTATTCTTTATATGATTTTGGGAAAGGTTTT--   6215
+
+1565-18817      4984 TTTATTTTACATTATTTTGTGTCAGGCCTTAAGAATAGTTGTTCACTTTC   5033
+                     |||||||.|.||||.|||||.|||.|||||||.|||||||.||.||.|||
+5002-22255      6216 TTTATTTAATATTACTTTGTTTCAAGCCTTAATAATAGTTATTTACCTTC   6265
+
+1565-18817      5034 CCAAAGGTATTTTAGATGACTATTCCCCAGCTGATTCCCCCCTATTCTCT   5083
+                     ||||||||||||.||.|||.|..|||||||||||||..|||||.|||.||
+5002-22255      6266 CCAAAGGTATTTCAGGTGATTTCTCCCCAGCTGATTTTCCCCTGTTCCCT   6315
+
+1565-18817      5084 GAAGGATAGATTGCATGAGTAGATTTATTTAGAGGAACAGACCGCCACCC   5133
+                     ||||||||||||||||||..||||||||||||||||.|||||.|||||||
+5002-22255      6316 GAAGGATAGATTGCATGATGAGATTTATTTAGAGGAGCAGACTGCCACCC   6365
+
+1565-18817      5134 TGCATGTA--ATGTTTGTCTCTTGGTTGGTTTCCAGTCCAGATACATTTT   5181
+                     ||||||||  ||||||||||.||||||||||||.||||||||.|||||||
+5002-22255      6366 TGCATGTATCATGTTTGTCTATTGGTTGGTTTCTAGTCCAGACACATTTT   6415
+
+1565-18817      5182 ATTTTTTGTTCTAAACGTTAATGAATTATTTTAATTCATAGTGTGTGTTA   5231
+                     |||||.||||.|||..|||| ||||||||||||||.|||.||.|||.||.
+5002-22255      6416 ATTTTCTGTTTTAAGTGTTA-TGAATTATTTTAATCCATGGTATGTCTTG   6464
+
+1565-18817      5232 AAGA---ACAGCATTCTGGGGAG---CTAAAAGATAAACTATTCTGAGAA   5275
+                     ||.|   |.|.||||.|....||   ||||||.||||||||||||.||||
+5002-22255      6465 AATATATATAACATTATTCCAAGATACTAAAAAATAAACTATTCTAAGAA   6514
+
+1565-18817      5276 TTAGAATAAATTGTATCCTAATACT-AGGATTGAGTGGAGTATGGGAAAA   5324
+                     ||||||.|||||||||.|..||||| ||| |||.||||..||...|||||
+5002-22255      6515 TTAGAAGAAATTGTATTCCGATACTGAGG-TTGGGTGGGATACATGAAAA   6563
+
+1565-18817      5325 ACTTACAAGAATTTTTACGTTT--AGTGCTGCTTTGTAACATTTTT-AGA   5371
+                     ||.||..|.|||||||..||.|  |||||||   |||||  |.||| ||.
+5002-22255      6564 ACCTATGATAATTTTTTTGTGTTCAGTGCTG---TGTAA--TGTTTCAGG   6608
+
+1565-18817      5372 AACCCTACCT-TCTTCCTATCCACCCATTCTTGTCTTTATTATT------   5414
+                             || |||.||   ||..||.||       ||||||||      
+5002-22255      6609 --------CTGTCTCCC---CCTGCCCTT-------TTATTATTGCTGTT   6640
+
+1565-18817      5415 AGAAGGGAATATTGAATACAAAAGTCTTAAAAACGTAAAAACTCTTTTTT   5464
+                     |.||..||.|.|  ||||   ||||||||||.|..|.|.|.|||||.|||
+5002-22255      6641 ATAAAAGACTCT--AATA---AAGTCTTAAAGATATCAGAGCTCTTATTT   6685
+
+1565-18817      5465 TCAAACTATTTTCAATTCCCTAAGTTAACACGTAAACTTATCTCAGAGTC   5514
+                     |||||||.|.||.|.|||.|.||.|||           |||   |.||||
+5002-22255      6686 TCAAACTGTCTTTAGTTCTCCAAATTA-----------TAT---ATAGTC   6721
+
+1565-18817      5515 TTTAGT--AGGGGAAAAATCTGTATCTGTAATTTATGTCCTTGAGTGACA   5562
+                       .|||  ||||||||||.||||  |||||||||||.||.||||||..||
+5002-22255      6722 --CAGTTAAGGGGAAAAACCTGT--CTGTAATTTATCTCATTGAGTACCA   6767
+
+1565-18817      5563 GTGTCCTGGATTTGATGGGCAGTATTTCCTAATCTGTGTAACTAATGCAT   5612
+                     ||||||||..|||||||||.||||.|||||||.||.|.   |||..|..|
+5002-22255      6768 GTGTCCTGATTTTGATGGGAAGTAATTCCTAACCTCTT---CTAGGGTGT   6814
+
+1565-18817      5613 ATCTCAAATAGGATGGGAA----TTATTTACACTT-CTGCTGGTGTTAGC   5657
+                     .||||||||||||||||||    ||||.||.|||| ||..||||||||..
+5002-22255      6815 TTCTCAAATAGGATGGGAAATGTTTATCTAAACTTTCTAGTGGTGTTAAT   6864
+
+1565-18817      5658 TGCAACTGAAGGAAAAGCTGGAGCTAGAACTATACAGTTTGGATTTTT-A   5706
+                     ||||.|||..||||.|||||||.|||....|||.|||||||||||||| |
+5002-22255      6865 TGCAGCTGTGGGAAGAGCTGGAACTAAGGTTATGCAGTTTGGATTTTTTA   6914
+
+1565-18817      5707 GCACAGAATTTTGAAATTGTTAGATTGAACTTTACATGTTCAAGCTATTT   5756
+                     |||.||||||||||||||||.||||. |||||  |||||           
+5002-22255      6915 GCATAGAATTTTGAAATTGTGAGATA-AACTT--CATGT-----------   6950
+
+1565-18817      5757 TAATTTTTTATAGATTATGATTGATACATAATAGGAGGTTTAGGTATACA   5806
+                                  ||||                                 
+5002-22255      6951 -------------ATTA---------------------------------   6954
+
+1565-18817      5807 GCCTAATGATCCCATATTTGTTTATGTTGTGAAATGATTACCACAGAAAA   5856
+                                                                       
+5002-22255      6955 --------------------------------------------------   6954
+
+1565-18817      5857 TCTAGTTAACATCCATTGGCACACACAGTTAACAAACTTTTTTTCTTGCA   5906
+                                                                       
+5002-22255      6955 --------------------------------------------------   6954
+
+1565-18817      5907 GTGAGAACATCCAAGGCTATTCTCTGATCAACTTTAAAATATACAATACA   5956
+                                 |||                                   
+5002-22255      6955 ------------AAG-----------------------------------   6957
+
+1565-18817      5957 GTTTATTAACTATAATCACCATGCTGTAGGTTACATCCCTGAATATTTTT   6006
+                                       ||||         |||||         |||||
+5002-22255      6958 ------------------CCAT---------TACAT---------TTTTT   6971
+
+1565-18817      6007 ATTTTGCAACCAGAAGTTTGTAGTTTTTGACCACCTTCCCTCATTTTATT   6056
+                     |      ||                                         
+5002-22255      6972 A------AA-----------------------------------------   6974
+
+1565-18817      6057 TTTAAGGTTTTATTTCTTTATTTTGACAGAGTATGCACAAGCAAGGAGAG   6106
+                                                         |||||||       
+5002-22255      6975 ------------------------------------ACAAGCA-------   6981
+
+1565-18817      6107 TGGCAGGCAGAGGGAGAGGGAGAAGCAGGCTCCCTGCTGAGCAGGGAACT   6156
+                                                                       
+5002-22255      6982 --------------------------------------------------   6981
+
+1565-18817      6157 TGATGTGGGGCTGGATCCCGGACCCTGGGATCATGACCTGAGCCAAAGGC   6206
+                     |||||||                                     ||||  
+5002-22255      6982 TGATGTG-------------------------------------AAAG--   6992
+
+1565-18817      6207 AGACACTTAACTGACTGAGCCACCAAGGCACCCCAGCTTTCCCTCATTTT   6256
+                           |||| ||  || |||                             
+5002-22255      6993 ------TTAA-TG--TG-GCC-----------------------------   7003
+
+1565-18817      6257 AAAAAATAAGTATCATTTGAAGATAAATAATACAGCTTAGATTAAGCCTT   6306
+                                                          |||||..||||||
+5002-22255      7004 -------------------------------------TAGATCTAGCCTT   7016
+
+1565-18817      6307 TGGCATTTCTAGATCATTTTATAGGGATATGATAAAGTCATTTATAGG-A   6355
+                     ..|.||...||||||||||||.|||.||..||...|||.||||||||| |
+5002-22255      7017 CCGAATCCTTAGATCATTTTACAGGAATGAGACGGAGTGATTTATAGGCA   7066
+
+1565-18817      6356 AACACAGGGGTGTTCTAGGTTCTTTAGAGTCCGGTGT-TCTCATTGTCAG   6404
+                     ||          ||...||||||.||||| ||. ||| ||.|||||||..
+5002-22255      7067 AA----------TTAATGGTTCTCTAGAG-CCA-TGTATCACATTGTCGT   7104
+
+1565-18817      6405 TAATTGAACAAGTCTC-------ACTGTGAGCACACAAACGTA--GGACA   6445
+                     |..||||. ||.||.|       ||||||.|| |..|||.|||  ||.||
+5002-22255      7105 TGGTTGAG-AAATCCCCATCATGACTGTGGGC-CTAAAAAGTACAGGTCA   7152
+
+1565-18817      6446 TTCTGATACAGAAACCAGTGACTTTGATGAGCAGGAGACTGCAGTTA---   6492
+                     ||||..|..|||.||.|||..|||||||||||.|||||.||||.|||   
+5002-22255      7153 TTCTAGTTTAGAGACTAGTAGCTTTGATGAGCTGGAGATTGCACTTAGTA   7202
+
+1565-18817      6493 ATAAGGACTGTTTC-ATGGATTTTATAGTTTATGGAGAACCATACATACC   6541
+                     ||||..| |||||. ||..|.||.|.|||||||.|||...|.|.|.|..|
+5002-22255      7203 ATAATAA-TGTTTGTATAAAATTCACAGTTTATAGAGTGGCCTTCTTGTC   7251
+
+1565-18817      6542 TCCCTTAATGCTCCCATCAACCTTTGGAGTGTAGAGAC--CGGAATTAAA   6589
+                     |||||||||.||||||..|||.|||||.||.||.|.||  |..||||||.
+5002-22255      7252 TCCCTTAATCCTCCCAAGAACTTTTGGGGTATAAAAACACCAAAATTAAG   7301
+
+1565-18817      6590 CCGGATGGGCAAACTGAGGCTGAACCAAACTAAGTTAGGACTCTCACAGT   6639
+                     ||.||||.||||||||.|  |||||.|||||.||. ||||..||.|..|.
+5002-22255      7302 CCTGATGAGCAAACTGTG--TGAACAAAACTTAGC-AGGAGCCTAATTGG   7348
+
+1565-18817      6640 TAGTAAGTGGCTTCAGACACACCT-------TTTTCCTTACTTCATGCAG   6682
+                     ||||..||||.||||..|||||.|       ||||||||||.||||.|.|
+5002-22255      7349 TAGTGCGTGGGTTCAAGCACACATGCTGCATTTTTCCTTACCTCATACTG   7398
+
+1565-18817      6683 TCTTTACACATAAAAGTCATTGGATAATTATTG-AGCAGAATGTAGAAAA   6731
+                     .||||||||||.|||||.||.|||||.|.|||| ||. ||||..|.|.||
+5002-22255      7399 CCTTTACACATGAAAGTTATCGGATAGTCATTGGAGG-GAATACATAGAA   7447
+
+1565-18817      6732 AGACCCTTTTCTCCTAATAAAATTTTTTAAA-TTAGGCTTTAAGAGAAAG   6780
+                     |.||.||.|||||.|. ||..||||||.||| |||..|||.|..||||||
+5002-22255      7448 ATACACTGTTCTCTTC-TAGGATTTTTAAAAATTAAACTTCAGAAGAAAG   7496
+
+1565-18817      6781 TGGCCATATAAATTCTCATTTCATTAGTTAGAAT----AGAAACTT--TA   6824
+                     .||..|||||||. ||||.||||.|    .||||    |.||||||  ||
+5002-22255      7497 GGGTTATATAAAC-CTCAATTCAAT----GGAATTCTTAAAAACTTCTTA   7541
+
+1565-18817      6825 GTTTTTACTGTTCAAGTTAAAGAAAATTTTTGGTTGATTTGTGTAATGTT   6874
+                     .|||||||       |||.||.||||.||||||||    ||||||||.||
+5002-22255      7542 ATTTTTAC-------GTTGAACAAAAGTTTTGGTT----TGTGTAATATT   7580
+
+1565-18817      6875 T---ACTACCTTTTTCCTTAAAGTTGTCAGCACAGAGTAGATGTGTTGTC   6921
+                     |   ||.||||||||||||.||||||||||||||.|||||.||||||.||
+5002-22255      7581 TCTTACCACCTTTTTCCTTCAAGTTGTCAGCACATAGTAGGTGTGTTTTC   7630
+
+1565-18817      6922 TTTT---GCCATTGGTCTTTTTTATT-----------------------G   6945
+                     ||||   ||||.|||||||||.|.||                       |
+5002-22255      7631 TTTTTTTGCCACTGGTCTTTTGTTTTTTTGTTTTTTTGTTTTTTTTTTGG   7680
+
+1565-18817      6946 TCATTAAATCATTTTGCTCTGTTAATTTTTGCTCATTT-GCCTGGCTGTT   6994
+                     |||||||||||||||||||||||.|||||||.|||||| ||.||||||.|
+5002-22255      7681 TCATTAAATCATTTTGCTCTGTTGATTTTTGTTCATTTTGCTTGGCTGCT   7730
+
+1565-18817      6995 TGTGTGGATACTAGAGATTAATTAAA-GATTATTAATTAACCCAGTGTCT   7043
+                     |.|||||.|||||.|||||||||||| |.|||||.|||||||||||||||
+5002-22255      7731 TTTGTGGGTACTACAGATTAATTAAAAGGTTATTTATTAACCCAGTGTCT   7780
+
+1565-18817      7044 ATTACCGTAATCTTTAGCACTCCAAGGCTCTAACAGTTACTGTATAGTTT   7093
+                     |||.|.|||||||||||||...||||||.|||||.|||.|||.|||||||
+5002-22255      7781 ATTGCTGTAATCTTTAGCATGACAAGGCCCTAACTGTTGCTGCATAGTTT   7830
+
+1565-18817      7094 TATAATATTGGTTATTTCCCTAATCAGTCTTTTTTGTTGTTGCTGTTGTT   7143
+                     |||.|.||..||||||.||||.||||  |||||. |||.||     ||||
+5002-22255      7831 TATGACATGAGTTATTGCCCTGATCA--CTTTTA-GTTTTT-----TGTT   7872
+
+1565-18817      7144 GTTTTTAATTGCCCT---TGTGAATCTTATAGATGGTCTTGTCATCATGT   7190
+                      ||||||||||||||   |||.|||||||||||.|    |||||   |||
+5002-22255      7873 -TTTTTAATTGCCCTCCTTGTAAATCTTATAGACG----TGTCA---TGT   7914
+
+1565-18817      7191 AGGGGGAAAAAATCTGTGTAGGA---GTAATGGGGTAGGTGGAATTAGAT   7237
+                     ||.|||....||||.||.||.||   |||   ||||||.|||.|||||||
+5002-22255      7915 AGTGGGGTGTAATCGGTATATGAACGGTA---GGGTAGATGGTATTAGAT   7961
+
+1565-18817      7238 TCCAGTTAAATTTAAATAAATGAGTGCTTTATATGGTTGACATTAGGACT   7287
+                     ||   |  |||||||||||||||.|||.||||.||||||||.||||||||
+5002-22255      7962 TC---T--AATTTAAATAAATGAATGCCTTATGTGGTTGACCTTAGGACT   8006
+
+1565-18817      7288 CCGTAAAGCACTTTTTTTTTTTTTTTTAAGNNNNNNNNNNNNNNNNNNNN   7337
+                     |.|.|||. ||||                                     
+5002-22255      8007 CTGCAAAA-ACTT-------------------------------------   8018
+
+1565-18817      7338 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   7387
+                                                                       
+5002-22255      8019 --------------------------------------------------   8018
+
+1565-18817      7388 NNNNNNNNNTTGGGGGAAGCAGGCTCCCTGTCGAGCAGAGAGCCAGATGC   7437
+                                     ||||||                            
+5002-22255      8019 ----------------AAGCAG----------------------------   8024
+
+1565-18817      7438 GGGGCTCAATCCTAGGACCCTGAGATCATGACCTGAGCCGAGGGCAGGGC   7487
+                                                                       
+5002-22255      8025 --------------------------------------------------   8024
+
+1565-18817      7488 AGAGGCTTAACCCATTGAGCCACCCAGGCGCCCCTGTGAAGCACTTTTAA   7537
+                           ||                                          
+5002-22255      8025 ------TT------------------------------------------   8026
+
+1565-18817      7538 GTTAAATAAACAGATGGATGACTTGCCAACTCAAAAAACTTCATTGCTTG   7587
+                               ||||||.|..||.||||||||||||||..||.||||||||
+5002-22255      8027 ----------CAGATGAACAACATGCCAACTCAAAAACTTTTATTGCTTG   8066
+
+1565-18817      7588 AGG-TTCTCTGTTTTGTG---CGTTATG----CTTTCTTACATATTTCAG   7629
+                     .|| ||| |||||||.||   |  ||||    |||||.||||.||||.|.
+5002-22255      8067 GGGCTTC-CTGTTTTCTGGAAC--TATGTATACTTTCATACACATTTTAA   8113
+
+1565-18817      7630 CCTAGCAGTTTTGAGAAGGAAATTATTGTCTTTGTGTATAATTAATTTCA   7679
+                     |..|||||||||||.|||||.||||.|.|||.|||||||||||    |||
+5002-22255      8114 CTCAGCAGTTTTGACAAGGACATTACTATCTCTGTGTATAATT----TCA   8159
+
+1565-18817      7680 GAATTTCCCTAAAATGTTGGGAATGGAGAAAAAA-AGTATTAC---ACTG   7725
+                     ||||||||.|..|||.||.|...|.|||||.||| |||||||.   |.|.
+5002-22255      8160 GAATTTCCTTTTAATATTTGAGGTAGAGAAGAAAGAGTATTATTATATTC   8209
+
+1565-18817      7726 TGTGCTACAGGAGGTGACACTTATGTA-AAAAGAGAAGTTGGTGTTTGTT   7774
+                     |||||||||...|||||.     |||| ||||| ||||.||.|..|||||
+5002-22255      8210 TGTGCTACAAATGGTGAT-----TGTACAAAAG-GAAGCTGATACTTGTT   8253
+
+1565-18817      7775 GTTGACTAGTAAGTTGTATGTATAATGAGGACGCTTAATCCTAACTGAAG   7824
+                     ..||.|.||||.            ||||||||.|||              
+5002-22255      8254 TCTGGCCAGTAC------------ATGAGGACACTT--------------   8277
+
+1565-18817      7825 TTTAAAGCC-TAAATTTTAACTAAAATGAGCGATCTCAATTCAAGATTTG   7873
+                       |||.||| |||||.||||||||||||.||..|||..|||||.|||||.
+5002-22255      8278 --TAAGGCCCTAAATCTTAACTAAAATGGGCAGTCTTGATTCAGGATTTA   8325
+
+1565-18817      7874 CTCTAAGTACTGAAACTCTTATACTTTAGTGAGATGTAGACTACTTTTTG   7923
+                     .|.|||.|| ||.||. |||.|.|||||||||||||||||||  |||||.
+5002-22255      8326 TTTTAAATA-TGGAAG-CTTTTTCTTTAGTGAGATGTAGACT--TTTTTT   8371
+
+1565-18817      7924 GTGGATGTAAATGC--------------------TG--------------   7939
+                     .|||||.|||||||                    ||              
+5002-22255      8372 TTGGATATAAATGCCAGCACCTAGACCAAAGTTTTGTTTTGTTTTGTTTT   8421
+
+1565-18817      7940 ----AGA-----------------------------ACT-----------   7945
+                         |||                             |||           
+5002-22255      8422 TTTAAGATAGGGTCTCTGTTGCCTAGGCTGGATCTTACTGCAGCCTTGAC   8471
+
+1565-18817      7946 --------------------------------------------------   7945
+                                                                       
+5002-22255      8472 CTCCCAGCCTCAAGCAGTCCACCCACCTCAGCCTCCCAAGTAGCTGGGAC   8521
+
+1565-18817      7946 ----------------------------------------------AGA-   7948
+                                                                   ||| 
+5002-22255      8522 TGAAGGCTCACGCCACCATGCCCAGCTAAGTTTGTTTATTTTTTGTAGAG   8571
+
+1565-18817      7949 -------------------------------TCTAACT------------   7955
+                                                    |||||||            
+5002-22255      8572 GCGAGGTCTCACTATATTGCCCAGGGTGGTCTCTAACTCCTAAACTCAAG   8621
+
+1565-18817      7956 ---------------------------------------TTTTTATTGCA   7966
+                                                            |||||||||||
+5002-22255      8622 CAGTCCTCCCACCTCAGCCTCCCAAAGTGTAAACCAAACTTTTTATTGCA   8671
+
+1565-18817      7967 TGGCTAGTTTGTTGTGCTCACTGACCATTAGAAGGAGTCAGAAGAGCCCA   8016
+                     |||||   |..||||.|.||.|||||||      |||..|||||||.|||
+5002-22255      8672 TGGCT---TAATTGTACCCATTGACCAT------GAGGAAGAAGAGTCCA   8712
+
+1565-18817      8017 GCACCAGGAAAGGTTATGACACATCTCACAG-AATGAGAATTCAGGTTAG   8065
+                     ||||||||||.||||.|.||||.||..|||| ||.| |.|.||..|||||
+5002-22255      8713 GCACCAGGAATGGTTGTAACACCTCCTACAGGAAAG-GTACTCTAGTTAG   8761
+
+1565-18817      8066 GAGCTGCAGA--TGCAGGGGGGGGTGGGTGGACTTTTG-TCACAGTGCAA   8112
+                     ||||||||||  |.|        ||||      ||||| |||...|.||.
+5002-22255      8762 GAGCTGCAGACTTTC--------GTGG------TTTTGGTCATGCTCCAC   8797
+
+1565-18817      8113 GCCCAAGTTCCAGATGAAAGGGGAAAGGGTC-TGCATCCCTGCCTGGTCT   8161
+                     |||.||||.||    |||  ||||||||  | ||.|||| ||||||||||
+5002-22255      8798 GCCGAAGTCCC----GAA--GGGAAAGG--CATGGATCC-TGCCTGGTCT   8838
+
+1565-18817      8162 GGTAGAGGCAGGA---AGG-----AACCTACCTTGGTTTGCCTCATACCT   8203
+                     ||.||||||||||   |||     ||...|.||||.|||||..|||||||
+5002-22255      8839 GGCAGAGGCAGGAGCTAGGGATAGAATGCATCTTGCTTTGCAGCATACCT   8888
+
+1565-18817      8204 CTGAATGCAGCAGGTCTT--CGGGATACCTGGTTAGGGAC---CAGCATG   8248
+                     .||||   |.|||||.||  |.| |.||||||||||.||.   |.| |.|
+5002-22255      8889 GTGAA---ACCAGGTTTTTTCTG-ACACCTGGTTAGTGAAATACTG-AAG   8933
+
+1565-18817      8249 GCTAG------CTCTAGGGTCTACTTTCAATATTTCCAAACAGGAAAAAG   8292
+                     |..||      |||||||||.|||.|.|||||||.|..|.||||||||||
+5002-22255      8934 GGGAGGAGAGACTCTAGGGTTTACCTCCAATATTGCTGAGCAGGAAAAAG   8983
+
+1565-18817      8293 ACTTTTTTGCTTGTGATGGGTAAATAAGAAAGGAATGGAGGGTGGGTAAT   8342
+                     .|.|||| |||||||.|.|||||.||||  ||||||||||. ||.||||.
+5002-22255      8984 GCCTTTT-GCTTGTGGTAGGTAAGTAAG--AGGAATGGAGC-TGAGTAAC   9029
+
+1565-18817      8343 TTGATGACAAGCCTAGAATCTTAGATGGTTTCATCATGTGAAAAACATTT   8392
+                     |||||.||.||.|..||||||      |.||.||.||||||||| |||| 
+5002-22255      9030 TTGATAACGAGGCAGGAATCT------GCTTTATGATGTGAAAA-CATT-   9071
+
+1565-18817      8393 ACATTTTAAAGGTTTATTTGGGGGG-TATT-AAGTTTAATT--AAACTCA   8438
+                     ||.|||||||.||||.|||||.|.. |||. ||||||||||  ||| |.|
+5002-22255      9072 ACCTTTTAAATGTTTGTTTGGAGCAATATCGAAGTTTAATTTTAAA-TAA   9120
+
+1565-18817      8439 TTTACAGAAAGGTCAAATAAG-ATAATCTGTCTTGGTTATTCTTAAGCAA   8487
+                     ||||||.|||        ||| ||||.||||    ||||      |||||
+5002-22255      9121 TTTACAAAAA--------AAGGATAAACTGT----GTTA------AGCAA   9152
+
+1565-18817      8488 GTGTAATTTGTAGTATCTTATTCAAGTGCCATTTCAAAATTTACTGCTGG   8537
+                     .|.||||||.|||   ||||||         |||    |||         
+5002-22255      9153 CTATAATTTATAG---CTTATT---------TTT----ATT---------   9177
+
+1565-18817      8538 TAGCAAGCATCTTTTTAGTTGTTACCTGGAACAAAAGTAGTTCTTGGACA   8587
+                         ||.|||.|     |.|.             |||||           
+5002-22255      9178 ----AATCATGT-----GCTC-------------AAGTA-----------   9194
+
+1565-18817      8588 TCTCCCATGGAAAATTAAACACATGTTCTCTGGGATTTCAGCTTCCTTTA   8637
+                                  |||||.|                ||..|||||     
+5002-22255      9195 -------------ATTAAGC----------------TTGTGCTTC-----   9210
+
+1565-18817      8638 ATTAAACATGAACTGCCCATATTGGAATGCTTGGGACTGAATGAAA----   8683
+                          ||||||  ||      ||  |.||||||||||..||.||||    
+5002-22255      9211 -----ACATGA--TG------TT--AGTGCTTGGGACCAAAAGAAAGTGA   9245
+
+1565-18817      8684 --AA--TAATT-----CCAAATTACAGGTTTTAATGCTAGAACTATTACC   8724
+                       ||  |||||     |||||||||||||||||.|||||||||||.||||
+5002-22255      9246 TTAAATTAATTACTACCCAAATTACAGGTTTTAGTGCTAGAACTAGTACC   9295
+
+1565-18817      8725 TGGATCATCATTTTTAGCTATTTTAGCAATG---TGTCATT-GCTTTTT-   8769
+                     ||||||||  |||.||..|||||||. ||||   ||||||| ||.|||| 
+5002-22255      9296 TGGATCAT--TTTCTAATTATTTTAA-AATGCTATGTCATTTGCCTTTTA   9342
+
+1565-18817      8770 CCTTT----CTGGGACATTTTATTCCTGCTTGGGAGTTTTTTGGGGTACT   8815
+                     |||||    ||||||..|||||||||||||||.|.||.||||||||||  
+5002-22255      9343 CCTTTTCTTCTGGGATGTTTTATTCCTGCTTGAGGGTATTTTGGGGTA--   9390
+
+1565-18817      8816 TAACTAGTTGAAA---TTGTTCAGAAGACCTGCTAGCAAGACCAGTATAG   8862
+                      |..|.|||.|.|   |||||.|||.|||||||||||||.|.|||||.||
+5002-22255      9391 -AGTTTGTTTACAAACTTGTTAAGACGACCTGCTAGCAAAATCAGTACAG   9439
+
+1565-18817      8863 GATCCCCAAAAGCAGACTTTTCTCCTGTTGA----ATCCA-GAGGGGAAG   8907
+                     ..|...|||||.|||||||.||||||.||.|    ||.|| ||||||   
+5002-22255      9440 ACTTGGCAAAAACAGACTTGTCTCCTATTCACAGCATTCAAGAGGGG---   9486
+
+1565-18817      8908 GTGCAGCAGGAACCTTGTTTTCTGTACTAACACTTTCTGTAGTAT-ACAA   8956
+                       ||||.|||||||.|||||||               |||||.|| ||| 
+5002-22255      9487 --GCAGAAGGAACCCTGTTTTC---------------TGTAGCATGACA-   9518
+
+1565-18817      8957 TGTTTCCTCC-TTTATGTTAGGTATGATTTTAGAGC---TGAAGAGAGTG   9002
+                     ||      || |||.||||||||.||.|||||||||   ||| ||.|||.
+5002-22255      9519 TG------CCATTTCTGTTAGGTGTGGTTTTAGAGCAAATGA-GACAGTT   9561
+
+1565-18817      9003 -CTATGCTGAAAACTAGGTACTTTCAAACAATTTAAGCTTTAAATATTGG   9051
+                      ||.|.|..||||||||||||.||||.|.||.|||.||||||||||...|
+5002-22255      9562 ACTTTACCAAAAACTAGGTACATTCAGAGAACTTAGGCTTTAAATACCAG   9611
+
+1565-18817      9052 TTGGTTGCTACTCATAGTGGA-GGGAGAAGTATTTAAAGGGGCTAAATAT   9100
+                     ||.|||||||||| |.|.||| |||.||| |||||||||||..|.|||||
+5002-22255      9612 TTTGTTGCTACTC-TTGCGGAAGGGGGAA-TATTTAAAGGGATTCAATAT   9659
+
+1565-18817      9101 TTTGATGGTTTAAAGTAGGTGGTTTACAAATTGTTTTGTTAACAAGTGTC   9150
+                     ..|||||||||||||||.|||||||||||||||||.||.|||..||||||
+5002-22255      9660 CCTGATGGTTTAAAGTAAGTGGTTTACAAATTGTTCTGATAATGAGTGTC   9709
+
+1565-18817      9151 TAGGCAGCTCTCTGAGGAG-CCAGAAATCTGATGTAGTTCTCTTTTGTTC   9199
+                     |||||||.|||||||||.| ||.|||||||||||.||.||||.|||||||
+5002-22255      9710 TAGGCAGATCTCTGAGGGGACCTGAAATCTGATGCAGCTCTCCTTTGTTC   9759
+
+1565-18817      9200 TAGGTTATACTACTCCAACTGCCCCCCAGGCATACAGCCAGCCTGTCCAG   9249
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+5002-22255      9760 TAGGTTATACTACTCCAACTGCCCCCCAGGCATACAGCCAGCCTGTCCAG   9809
+
+1565-18817      9250 GGGTATGGCACTGGTGCTTACGATACCACCACTGCTACGGTCACTACCAC   9299
+                     ||||||||||||||||||||.|||||||||||||||||.|||||.|||||
+5002-22255      9810 GGGTATGGCACTGGTGCTTATGATACCACCACTGCTACAGTCACCACCAC   9859
+
+1565-18817      9300 CCAGGCCTCCTATGCAGCTCAGTCTGCTTATGGCACTCAACCTGCTTACC   9349
+                     |||||||||||||||||||||||||||.|||||||||||.||||||||.|
+5002-22255      9860 CCAGGCCTCCTATGCAGCTCAGTCTGCATATGGCACTCAGCCTGCTTATC   9909
+
+1565-18817      9350 CAGCCTATGGGCAGCAGCCGGCAGCCACCGCACCTGCAAGGTAAGGCCA-   9398
+                     |||||||||||||||||||.||||||||.||||||.||||||||||||| 
+5002-22255      9910 CAGCCTATGGGCAGCAGCCAGCAGCCACTGCACCTACAAGGTAAGGCCAT   9959
+
+1565-18817      9399 ----------------CACTC-----------------------------   9403
+                                     ||.||                             
+5002-22255      9960 GGTGTCCTTAATGCGTCAGTCTTATGTTGGAGGGAAAGAAAGCAACTGTG  10009
+
+1565-18817      9404 --CCCT------------------AGTTCCTA---------------CA-   9417
+                       |.||                  |||||||.               || 
+5002-22255     10010 TACACTTAAAATAATCTGTGGTTTAGTTCCTTATTAGTGGTTGCTTTCAT  10059
+
+1565-18817      9418 -----------------------------------CTAGGGCATATCA--   9430
+                                                        ||||..||||.||  
+5002-22255     10060 ATACTCTCAGATGTTCACTGTTAGTAACTGATGTGCTAGAACATACCACA  10109
+
+1565-18817      9431 ------------------------------------------------GC   9432
+                                                                     ||
+5002-22255     10110 GAAATATTCTGCATTTAACAGTGAAATTGGCTGGGCGCGGTTTCTCATGC  10159
+
+1565-18817      9433 CTGT--TTC---------GGGA----------------------AAG---   9446
+                     ||||  |||         ||||                      |||   
+5002-22255     10160 CTGTAATTCTAGCTCTTTGGGAGGCCGAGGCGGGCGGATCATATAAGGTC  10209
+
+1565-18817      9447 AGCAATT-------------------------------------------   9453
+                     ||.|.||                                           
+5002-22255     10210 AGGAGTTTGAAACCAGCCTGGCCAACATGGGTGAAACCCCGTCTCTACTA  10259
+
+1565-18817      9454 ---ATGCACAATTAGAG--------------------------ATTCCAG   9474
+                        |||||.||.||..|                          ||.||||
+5002-22255     10260 AAAATGCAAAAATACCGGGGGGGCGCAGTGGCTCACGCCTGTAATCCCAG  10309
+
+1565-18817      9475 GACTT-------------------------------------------CT   9481
+                     .||||                                           |.
+5002-22255     10310 CACTTTGGGAGGCCGAGGCAGGGGGATCACAAGGTCAGGAGATCGAGACC  10359
+
+1565-18817      9482 TTCCTTTTTAAT--GGTCA--------CTCTT----AACATAC------T   9511
+                     .||||...|||.  |||.|        ||||.    ||.||||      |
+5002-22255     10360 ATCCTGGCTAACACGGTGAAACCCCGGCTCTGCTGAAAAATACAAAAAAT  10409
+
+1565-18817      9512 TA--------------------CCTTT-----------------------   9518
+                     ||                    |||.|                       
+5002-22255     10410 TAGCCGGGCATGGTGGTGGGTGCCTGTCGTCCCAGCTACTCGGGAGGCTG  10459
+
+1565-18817      9519 -------AGAGAT-TCA------------------CT----GTGTGCTTA   9538
+                            ||| || |||                  ||    |||.|||.|
+5002-22255     10460 AGGCAGGAGA-ATGTCATGAACCCGAGAGGCGGAGCTTGCAGTGAGCTGA  10508
+
+1565-18817      9539 -----------TG---------------GTCAT-----------------   9545
+                                ||               |.|||                 
+5002-22255     10509 GATCGCTCCACTGCACTCCAGCCTGGGAGACATAGCAAGACTCGGTCTCA  10558
+
+1565-18817      9546 ---------------------------------------CACA---GTAA   9553
+                                                            ||||   ||||
+5002-22255     10559 AAAAAAAAAAAATAGAAAAATTAGCTGGGCGTGGTGGCGCACACCTGTAA  10608
+
+1565-18817      9554 T----GCT--TTAGGACGC------------ATCAC-----------AGA   9574
+                     |    |||  |..|||.||            ||.||           |||
+5002-22255     10609 TCCCAGCTACTGGGGAGGCTGAGGCAGGAGAATTACTTGAACCTGGGAGA  10658
+
+1565-18817      9575 C-------ACATTGTTCT---------CCATT-TAGT-------------   9594
+                     .       |||.||..||         ||||| ||.|             
+5002-22255     10659 TGGAGGTTACAGTGAGCTAAGATGGCACCATTGTACTCTAGCCTGGGCGA  10708
+
+1565-18817      9595 -AGAG-------------------------------AAATGGTGCCATCC   9612
+                      ||||                               |||||||||.|||.
+5002-22255     10709 CAGAGGAAGACTTCACCTCAAAAAAAAAAAAAAGTGAAATGGTGCTATCG  10758
+
+1565-18817      9613 AGGAGCCAAGATGAGGAATGTCACTGGCCAGATGTCTAGTTTCTAGACAT   9662
+                     |.|.|.|||.||||||||||.|||||.    |    |||.|||      |
+5002-22255     10759 AAGGGTCAAAATGAGGAATGGCACTGA----A----TAGGTTC------T  10794
+
+1565-18817      9663 CCAGTTTCAGAAGAGTGACCTTCTAGGGTAGGAGGAGACTATTGTATTTA   9712
+                     |..|||||||||   |||||||.|||||||||||.||.|||||||.||||
+5002-22255     10795 CTGGTTTCAGAA---TGACCTTTTAGGGTAGGAGAAGGCTATTGTTTTTA  10841
+
+1565-18817      9713 CTTTACCAAACCCAGAAAAAAAAAATG---GAGTATGTGT--------TT   9751
+                             |||||||||.||.|.|..|   ||||.|||||        ||
+5002-22255     10842 --------AACCCAGAAGAAGAGAGAGAGAGAGTGTGTGTGTGTGTGTTT  10883
+
+1565-18817      9752 TCCTTCACAACAGAACAACTGATAGAATTGTACTTTTG----GT------   9791
+                     ||..|||.|||||.|.||||||||||||||||||||||    ||      
+5002-22255     10884 TCACTCAAAACAGCATAACTGATAGAATTGTACTTTTGAATTGTACTTTT  10933
+
+1565-18817      9792 ------TTTAT---TGACTT---------TGTAAATGGATAAAAGCTTTC   9823
+                           |||||   |||.||         |||||||||.|||..||||||
+5002-22255     10934 GATGCTTTTATCTTTGATTTCATTGACCCTGTAAATGGGTAACCGCTTTC  10983
+
+1565-18817      9824 TCTTTGGGAAAAACACGGCAGTTCACAGTACAGG--GGAGG---------   9862
+                     |||||||.|||||||.||.||||||||   ||||  |||||         
+5002-22255     10984 TCTTTGGCAAAAACATGGTAGTTCACA---CAGGCAGGAGGGGAAGGGAG  11030
+
+1565-18817      9863 ----------------------------------------TGGGAAG---   9869
+                                                             |||.|||   
+5002-22255     11031 CATCATGTGAGTCAAGAAATGGTCGTATGACCTAATTGTCTGGAAAGGAC  11080
+
+1565-18817      9870 ------------------TCATACACTTGTGTCTTGGTGGAAAGAATTGA   9901
+                                       |||.|||.|..|||||.||...||..||||||
+5002-22255     11081 ATAACCATATTCAAGAAATCAAACATTACTGTCTCGGCTTAAGCAATTGA  11130
+
+1565-18817      9902 CATTTTTTTTCTGTATTATGTAGTGGCTTGGTCATCTAAATATCGTAGGC   9951
+                     |||...||..||..|||.|.|||.|||||.   ||||||||||..|||||
+5002-22255     11131 CATGACTTCCCTACATTGTATAGAGGCTTA---ATCTAAATATTATAGGC  11177
+
+1565-18817      9952 AAGTATA----CTTAAGTGGGTACCTTGCTTTGGGGTGAATATTTGGGCA   9997
+                     ||.||.|    |||||.||||||||.||||.|.||.|||        |||
+5002-22255     11178 AAATAAAAATTCTTAACTGGGTACCCTGCTATAGGATGA--------GCA  11219
+
+1565-18817      9998 GA-CAGTTTCATACTCCATGACTAATGAGCAGGTAAATAGTATTGATTAT  10046
+                     || |    ||||||.||||||||..|.||||||||||.|||||. |||||
+5002-22255     11220 GAGC----TCATACCCCATGACTGGTTAGCAGGTAAACAGTATA-ATTAT  11264
+
+1565-18817     10047 TACTTAACAGAAGATTTCAGGTCTTTGCTTTAGGCAATGCACATAGGTGG  10096
+                     |||||||||.|||||||.||.|||||||||||||||.| |||.||..|||
+5002-22255     11265 TACTTAACAAAAGATTTTAGATCTTTGCTTTAGGCAGT-CACTTAACTGG  11313
+
+1565-18817     10097 CTTCTGCATACAGTCTTGAAGGAACATTGAATTCTGATTTGAAAGAAGAC  10146
+                     |||.||.|||||||||||||.|.|||||||||||||.|||||||||||||
+5002-22255     11314 CTTGTGTATACAGTCTTGAAAGGACATTGAATTCTGGTTTGAAAGAAGAC  11363
+
+1565-18817     10147 TTTTTAGGGAATAAACAAGAGATCAACTTGTAACCTAGACTTTTTGCCTA  10196
+                     .|||||||.|||           ||||||.|||||||||   |.|..||.
+5002-22255     11364 ATTTTAGGAAAT-----------CAACTTCTAACCTAGA---TATATCTG  11399
+
+1565-18817     10197 CTGTAGAGGTAAGAACTTAGCTCTGGCAAACACTCATGAAATTACTTCCA  10246
+                     ||.||||||||||||.|||||||||.|||||||||.|||||||||||..|
+5002-22255     11400 CTCTAGAGGTAAGAAATTAGCTCTGACAAACACTCGTGAAATTACTTTTA  11449
+
+1565-18817     10247 AAGTGCACAGTGAGTAATCAGAGCTACTTAGTAGTTTACATCTACTAGAG  10296
+                     ||.||||||||||||||||.||||..|||.|.|.|||||...|..||||.
+5002-22255     11450 AAATGCACAGTGAGTAATCGGAGCCGCTTGGCAATTTACCCTTGGTAGAC  11499
+
+1565-18817     10297 ATCCTGTGCAGTAGCTAGACTAAACTAACTG----ATTCCTGTAGGGTTC  10342
+                     ..|||.|||||||||||...||||||.|.||    |||||||.|.||   
+5002-22255     11500 CACCTTTGCAGTAGCTAAGTTAAACTTAGTGGCTTATTCCTGAAAGG---  11546
+
+1565-18817     10343 CCTTGCAGTTGACCTAGGCATTTCAGAATGTTACCAGCTGTTTGAAGTCC  10392
+                     |||               ||||||.||.|||.|.|||.|||.||||||||
+5002-22255     11547 CCT---------------CATTTCCGAGTGTCATCAGATGTATGAAGTCC  11581
+
+1565-18817     10393 CATTTGATGATCCATTGCAACAGTATATCCAAGCCATAACTGGAGTGGGG  10442
+                     ||||||||..||...|||||||||||||||||||||||.|||||   |||
+5002-22255     11582 CATTTGATACTCTGATGCAACAGTATATCCAAGCCATATCTGGA---GGG  11628
+
+1565-18817     10443 AGTTATATCAGTTGTTTTTGTTTTT--TAATT-ATTGGAAGGGGGGGCTC  10489
+                     ..|||||| |  ||..||.|.||||  |||.| ||              |
+5002-22255     11629 TTTTATAT-A--TGAATTGGGTTTTGATAAGTCAT--------------C  11661
+
+1565-18817     10490 CTTTTTTTCCTTGATTTTCAGTCCTTACCACTTTAAAACCA--------T  10531
+                     |||||||   ||..||||||.|..||||||||||||||| |        |
+5002-22255     11662 CTTTTTT---TTTCTTTTCACTTGTTACCACTTTAAAAC-AGCTGTCTGT  11707
+
+1565-18817     10532 CTCATGATCAGTGTCAGCTACTCCTTTTTCCACTGGAAAGAGGGGGCT-T  10580
+                     |||||.|||||||.||   |||.|||||||.|||||||| ||||   | |
+5002-22255     11708 CTCATAATCAGTGGCA---ACTGCTTTTTCGACTGGAAA-AGGG---TAT  11750
+
+1565-18817     10581 GTGACTTTTTTCAGCTCTGGAGCAACCAGTACTTCCACATCCTTATCTGG  10630
+                     |.|||.|.|||||||||.|||..|...|||||||| ||| ||.|.|||||
+5002-22255     11751 GGGACCTATTTCAGCTCAGGAAAAGTTAGTACTTC-ACA-CCCTCTCTGG  11798
+
+1565-18817     10631 TTTGCCTGCTTCTTGAGGGTGTGCTTACGATAGCTGAAGCTCACTTT---  10677
+                     |||      ||||   |||| ||.||. |.|.|.||  |.|...|||   
+5002-22255     11799 TTT------TTCT---GGGT-TGGTTG-GTTGGTTG--GTTGGTTTTTGA  11835
+
+1565-18817     10678 GCTACAGTCTTG-----TTG--CAGACTGTTAGGGCTAAAAGGTAATAGA  10720
+                     |.|..|||.|||     |||  |||.|||. ||.||  |..||..|..|.
+5002-22255     11836 GATGGAGTGTTGCTCTGTTGTCCAGGCTGG-AGTGC--AGTGGCGAGTGC  11882
+
+1565-18817     10721 AA-----ACCCTGGGGATT-------TTGTTTTGTTTTT--TTCCTT---  10753
+                     |.     ||||.||   ||       ||.|..||..||.  ||||..   
+5002-22255     11883 ACCCACCACCCAGG---TTCAAGCAATTCTCCTGGCTTAGCTTCCCGAGT  11929
+
+1565-18817     10754 ---TGGGACTAGG------------------------ATTGGTTTTTATT  10776
+                        ||||||||.|                        |||  |||.||||
+5002-22255     11930 AGCTGGGACTACGGGCATGTACCACCATGCCCGGCTAATT--TTTGTATT  11977
+
+1565-18817     10777 ATTTAATATTTCCCAG--TTCATCCAAGCATTG------CTGG----GAG  10814
+                      ||||.||....|.||  |||| |.|.|  |||      ||||    ||.
+5002-22255     11978 -TTTAGTAGAGGCAAGGTTTCA-CTATG--TTGGCCAGGCTGGTCTCGAA  12023
+
+1565-18817     10815 CTGGGG--CTGGAGGGGATGATTC-----------CCTCCCCTATT-CTG  10850
+                     ||.|.|  ||..||    ||||.|           ||||||..|.| |||
+5002-22255     12024 CTCGTGACCTCAAG----TGATCCGCCTGCCTTGGCCTCCCAAAGTGCTG  12069
+
+1565-18817     10851 GTATTTCCATATG-GAG-------ACTTTCAGGCAAA---GTTAGATTTA  10889
+                     |.|||.| |..|| |||       ||   |.|||...   ||| ||||  
+5002-22255     12070 GGATTAC-AGGTGTGAGCCACCGCAC---CCGGCCTGCCTGTT-GATT--  12112
+
+1565-18817     10890 TTTTTGG-CAGTCCAAGCT-AGGAAATGTATTT-----------TCAGGT  10926
+                      .||||| |..|    ||| |  ||||  |||.           |||| |
+5002-22255     12113 -CTTTGGACTTT----GCTTA--AAAT--ATTAATAGCTCTAACTCAG-T  12152
+
+1565-18817     10927 CTGTT-----CTTAAT--AAA-TGAGAAACTTAAACTCACAA--TAATCC  10966
+                     |||.|     |||.||  ||| ||      |||....||..|  ||||..
+5002-22255     12153 CTGCTGCAGCCTTGATGTAAAGTG------TTAGGGCCAAGAGGTAATAG  12196
+
+1565-18817     10967 AAA---------TTTATAAATGCTGTGAACTTATATAAATGCTAC----T  11003
+                     |||         |||     |.||..|||||.|.||.|||..| |    |
+5002-22255     12197 AAACCCCTGGAGTTT-----TCCTTGGAACTGAGATTAATTTT-CGTCAT  12240
+
+1565-18817     11004 TTAACATG-ACACTTTGCATTATTGTCAAAATTTC----TTC-TCTGTCT  11047
+                     ||||||.| |.||||               |.|||    ||| ||||   
+5002-22255     12241 TTAACAGGGATACTT---------------ACTTCCAGGTTCATCTG---  12272
+
+1565-18817     11048 TCAGTAGTCCCTTTTGGAAAAAAAGAATTTTCTT--CCCTAACAAATCAC  11095
+                       ||.||...|||  ||.|     |...|.||||  ||.||         
+5002-22255     12273 --AGCAGGGACTT--GGGA-----GGGGTCTCTTTGCCTTA---------  12304
+
+1565-18817     11096 CTCCCCT----CCCAGATCACTGAAACT----GGCAATGGAAAATACTGT  11137
+                     |||...|    ||   ||.||.||.|||    |.|||...|.|.||.|.|
+5002-22255     12305 CTCTGGTGTTTCC---ATTACGGAGACTTTGAGCCAAGTTAGATTAGTTT  12351
+
+1565-18817     11138 AACTGCCTTTGGTAGCAGTGGAACGAGT---GGAACATG-TTGGTATCTC  11183
+                     |        |||.|||       |.|||   |||| ||| ||..|.|||.
+5002-22255     12352 A--------TGGCAGC-------CCAGTTTAGGAA-ATGATTTTTTTCTG  12385
+
+1565-18817     11184 ATCTG--TGGATG---TGATTAATTCTCCCTCTTTCTT--------AGTG  11220
+                     .| ||  ||||||   ||.||..||.|...|.|||.||        |||.
+5002-22255     12386 GT-TGGTTGGATGGTTTGGTTGGTTTTTTTTTTTTTTTTAAGATGGAGTT  12434
+
+1565-18817     11221 TT-CTCTT-----CCAG-CAAATACAGT----TGGACCAAGACTGGGTTT  11259
+                     || |||||     |||| |   ||.|||    |||..|||. ||.||.|.
+5002-22255     12435 TTGCTCTTGTTGTCCAGGC---TAGAGTGCGATGGCACAAT-CTCGGCTC  12480
+
+1565-18817     11260 GATGGAA---------------TTCAGTTGACGATTGTATT-TACTTCCA  11293
+                     |.||||.               ||||       |.|| ||| |.||.|| 
+5002-22255     12481 GCTGGAGCCTCCGCCTCCGGGGTTCA-------AGTG-ATTCTCCTGCC-  12521
+
+1565-18817     11294 AGTTCAG--TCCTAACATTGCATGTTGCTCAGAGGTTATAGAGT------  11335
+                        ||||  ||||.|        ||.|||..||  |||.|| ||      
+5002-22255     12522 ---TCAGCCTCCTGA--------GTAGCTGGGA--TTACAG-GTGCCCGC  12557
+
+1565-18817     11336 ---TCT---CACCCACTTTTGTGGCTGAGGGGGAAAAAGTC---------  11370
+                        |||   ||.|.|.|||||||..||.|.|.|    .||.         
+5002-22255     12558 CACTCTGCCCAGCTAATTTTGTGTGTGTGTGTG----TGTTGTTTTTTTT  12603
+
+1565-18817     11371 ------TTACTTTTTTATTTCTCCTTTTAGACCGCAGGATGG-TAACAAA  11413
+                           ||..||||||.|||.|..||||.|||.| ||..|.| |      
+5002-22255     12604 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTGACAG-AGTCTTGCT------  12646
+
+1565-18817     11414 CC--CGCTGAGACT--AGTCAAC---CTCAATCT-AGCACAGGGGGTTAC  11455
+                     ||  |||..||.||  |||..|.   |.|.|||| |||.||        |
+5002-22255     12647 CCGTCGCCCAGGCTGGAGTGCAGTGGCGCCATCTCAGCTCA--------C  12688
+
+1565-18817     11456 AACCAGCCCAGCCT---AGGAT-ATGGACAGAGTAACTACAGTTATCC--  11499
+                     ..|.|||.|.||||   |||.| |||. ||...|. ||||. |.|.||  
+5002-22255     12689 TGCAAGCTCCGCCTCCCAGGTTCATGC-CATTCTC-CTACC-TCAGCCTC  12735
+
+1565-18817     11500 CCAGGTACCTGGGAGCTACCCCATGCAGCCAGTCACGGCACCACCATCTT  11549
+                     |||.|||.|||||| ||||           ||.|||    |||||||.  
+5002-22255     12736 CCAAGTAGCTGGGA-CTAC-----------AGGCAC----CCACCATG--  12767
+
+1565-18817     11550 AT-CCTC-CTACCAGGTCAGTATCTTTATTCGCACAGCCAGCGAGCTAGT  11597
+                     || |||. |||       |.|.|.|.||||..              ||||
+5002-22255     12768 ATGCCTGGCTA-------ATTTTTTGTATTTT--------------TAGT  12796
+
+1565-18817     11598 AGAGTAACAGTTTTTTTTTTTTTTT--CAGGNNNNNNNNNNNNNNNNNNN  11645
+                     ||||  ||||..|||...|.|.|||  ||||                   
+5002-22255     12797 AGAG--ACAGGGTTTCACTGTGTTTGCCAGG-------------------  12825
+
+1565-18817     11646 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCAGGTGAAATAGGTT-  11694
+                                                               ||||..| 
+5002-22255     12826 ------------------------------------------ATAGTCTC  12833
+
+1565-18817     11695 -ATCT---GAC-TCCCAGTGATG----------AGCCTGACCACAGATTG  11729
+                      ||||   ||| ||   |||||.          |||||. |||.|| ||.
+5002-22255     12834 GATCTCCTGACCTC---GTGATCCTCCTGTCTCAGCCTC-CCAAAG-TTC  12878
+
+1565-18817     11730 TTACATTAAAACCTCAGTCTTAGGT-TGGCAGTCAGTAACTCCTTCTCTA  11778
+                     |...||||            ||||| ||         |||..|..||   
+5002-22255     12879 TGGGATTA------------TAGGTGTG---------AACCACCGCT---  12904
+
+1565-18817     11779 AACACAAACAAAAACATTTTTACCCCTCTATGTTCTTCCTTTTAATTTCG  11828
+                        ||.|.|.||    |||||         |||           ||||| 
+5002-22255     12905 ---ACCAGCCAA----TTTTT---------TGT-----------ATTTC-  12926
+
+1565-18817     11829 CTCTTTTAGTTAATTCAGACGGATGAGAAACAAGTAT----ATGA-----  11869
+                           |||| |   .||||||          .||.|    |||.     
+5002-22255     12927 ------TAGT-A---GAGACGG----------GGTTTCTCCATGTTGGCC  12956
+
+1565-18817     11870 AAGCAGGTATAC----CCAGCCA-CAG--AAGCCACCTCC----------  11902
+                     |.||.|||.|.|    ||.|.|| ||.  ||.||||||.|          
+5002-22255     12957 AGGCTGGTGTCCAACTCCTGACATCATGCAATCCACCTGCCTTGGCCTCC  13006
+
+1565-18817     11903 ---AGTGCAGTTAGGATGGGTAAAGTGGAAGACATGAAAAGAAAGAAACT  11949
+                        |||||.|   ||||   ||.|| |     ||||       ||     
+5002-22255     13007 CAAAGTGCTG---GGAT---TATAG-G-----CATG-------AG-----  13032
+
+1565-18817     11950 TCATTTTAATCATTTTATGTTTAACCTCACTTGAGGTCCATTCACACACA  11999
+                               |.           |||.|||.|| |   ||.|        
+5002-22255     13033 ----------CC-----------ACCGCACCTG-G---CAGT--------  13049
+
+1565-18817     12000 ACTCTTTTTTTAATATTTTATTTCTTCGACAGAGAGCACAAGCAGGGGGA  12049
+                         ||.||||    ||||                             ||
+5002-22255     13050 ----TTGTTTT----TTTT-----------------------------GA  13062
+
+1565-18817     12050 GAGGGAGAGGGCAGGCTTCTTGCTGAGCAGGGAGCCCAGTGTAGGGCTCG  12099
+                     ||.||||          |||..||      |..||||||      |.|.|
+5002-22255     13063 GATGGAG----------TCTCTCT------GTTGCCCAG------GATGG  13090
+
+1565-18817     12100 ATTCCAGGACGCTGGGATCATGACCTGAGCCAAAGGCAGACGCTTAACCG  12149
+                     |.|     ||||   |||| |.||   |||..|..||||.  |||.|||.
+5002-22255     13091 AGT-----ACGC---GATC-TAAC---AGCTCACTGCAGC--CTTCACCT  13126
+
+1565-18817     12150 GCTGAGCCACCCAG--GTGCCCCCATGCACA--AGTCTTTTAA-----TG  12190
+                     .|...|||  ||||  ||.||.||   |||.  ||||||..||     ||
+5002-22255     13127 CCCATGCC--CCAGCAGTCCCTCC---CACCTCAGTCTTCCAAGTAGCTG  13171
+
+1565-18817     12191 ATTGGTCCAGGACCTTTCATCTACAGATTTATTCTGTACTCTCTGTCCTA  12240
+                     |         ||||        ||||         |.|     |||    
+5002-22255     13172 A---------GACC--------ACAG---------GCA-----TGT----  13186
+
+1565-18817     12241 AGTTAACCACCCTAACAG-CTACAGAATCTCGTTTGGGTTTCTTGTAAAG  12289
+                          ||||||.||.|.| ||| |.|.|    |||...|||||      |
+5002-22255     13187 -----ACCACCATACCTGGCTA-ATATT----TTTCTATTTCT------G  13220
+
+1565-18817     12290 TAGAGGAAGAATTTCAAGTTTTCTCCCTTATATT-------TAATTAGAA  12332
+                     ||||||..|..|          |||||| |||||       |..|..|||
+5002-22255     13221 TAGAGGTGGGGT----------CTCCCT-ATATTACCAGGCTGGTCTGAA  13259
+
+1565-18817     12333 GCAATTTT----TCAAATGAAC----TGTCTGAATTGTTTCCTAAAGTGT  12374
+                     .|  |..|    |||||..|.|    ||.||.|   |..|||.|||||| 
+5002-22255     13260 AC--TCCTGGGCTCAAACCATCCTCCTGCCTCA---GCCTCCCAAAGTG-  13303
+
+1565-18817     12375 TAACTTAGTTTTGCTAGAGGTAGCACTTCCCCTTTTTGCACTCAGTGTCA  12424
+                        ||..|.|||                    ||||||  .|   |||  
+5002-22255     13304 ---CTGGGATTT--------------------TTTTTG--TT---TGT--  13323
+
+1565-18817     12425 TTGGTTTACACATGAAAGTGCGGCAGG---TGT-GAACAGGTTTGAGAAC  12470
+                     |||.|||     |||.|..|.|.|..|   ||| |..||||.|.|||   
+5002-22255     13324 TTGTTTT-----TGAGACGGAGTCTTGCTCTGTCGCCCAGGCTGGAG---  13365
+
+1565-18817     12471 AAAATACAGCTGACTCGGTAAGTATACATCGTGG---------AGCATCC  12511
+                         |.||| ||.|.||          |||..||         ||| |||
+5002-22255     13366 ----TGCAG-TGGCGCG----------ATCTCGGCTCACTGCCAGC-TCC  13399
+
+1565-18817     12512 GTGGGCGGGGCTTACAGCAGTTCTTCCGCAGAGCCCACCTGTGCCTGTGC  12561
+                     |....|.|||.|.|| ||..||||.|.||    |.||.||.  ||||.|.
+5002-22255     13400 GCCTCCTGGGTTCAC-GCCATTCTCCTGC----CTCAGCTT--CCTGAGT  13442
+
+1565-18817     12562 TGCTGGGGGTGGTTGATCTGGCCCGTTGAATAAACACTACACTCAGTGAA  12611
+                     .||||||                            ||||||..|      
+5002-22255     13443 AGCTGGG----------------------------ACTACAGGC------  13458
+
+1565-18817     12612 GAGAAGCTGTTGAGTCCGTACAGCCATG--TTGGGAGATAGGATAGCGGC  12659
+                          ||        ||  ||..|||||  |         ||.||.    
+5002-22255     13459 -----GC--------CC--ACCACCATGCCT---------GGCTAA----  13480
+
+1565-18817     12660 TTAGTTTAGTTGTACTTTTAA---ATACAATGTCTTTATTTTCATTTCCA  12706
+                     ||..|||..|||||.|||||.   |.|||..|| ||.|.|.||.|..|||
+5002-22255     13481 TTTTTTTTTTTGTATTTTTAGTAGAGACAGGGT-TTCACTGTCTTAGCCA  13529
+
+1565-18817     12707 TAGTTCATCTAAAGTTTAATAGCAGTTCTTTTGAGCT--TTATC-----T  12749
+                     . |.|..|||.||             |||..|||.||  |.|||     |
+5002-22255     13530 G-GATGGTCTCAA-------------TCTGCTGACCTCGTGATCCGCCCT  13565
+
+1565-18817     12750 CTACG---TAAGAAGGTACCCTTGG--TTAG------------TTC---C  12779
+                     |..||   |...||.||.|   |||  |||.            |||   |
+5002-22255     13566 CCTCGGCCTCCCAAAGTGC---TGGGATTATAGGCATGAGCCATTCTCGC  13612
+
+1565-18817     12780 CTG-CCATG---TGGT-TGTCATGTCAAAAGATGA-------AGACCCAC  12817
+                     ||| ||.||   |||| |||  |.|.||.|.||||       |.||||||
+5002-22255     13613 CTGGCCTTGACCTGGTCTGT--TTTTAATAAATGAGAAACATAAACCCAC  13660
+
+1565-18817     12818 TTAATACTCT---TGTATAGTGCCTTGA--TTCTG-AAAT-TTCCTTATC  12860
+                     . |||.||||   |.|||..||||.||.  ||..| |||| ||.|||   
+5002-22255     13661 A-AATTCTCTAAATTTATGATGCCATGGACTTACGTAAATGTTACTT---  13706
+
+1565-18817     12861 CATCTTTT--CTTAAGATTTCGTAGATGATCAGGCATGTTTGAAAGTTTA  12908
+                     ||.|.|..  |||||.|||         ||      ||||    ||||| 
+5002-22255     13707 CAACCTAAAACTTAACATT---------AT------TGTT----AGTTT-  13736
+
+1565-18817     12909 AAACTG-TATACA-CTGTA----TAGCGAAACA--ATTTGAAACTTGGAC  12950
+                        ||| |.|.|| |.||.    |.|.||||.|  ||||....|.|. ||
+5002-22255     13737 ---CTGGTCTTCAGCAGTCCCCTTTGAGAAAAAGCATTTATTCCCTA-AC  13782
+
+1565-18817     12951 AGATGTCAGTA-----GAAGATTGCCATATTTGTGTGGTCACACACACAT  12995
+                     |||  |||.|.     |  |||..||..|..|| ||.| |||||| |.||
+5002-22255     13783 AGA--TCACTTCTCCCG--GATCACCTAAACTG-GTAG-CACACA-ATAT  13825
+
+1565-18817     12996 CGGGCAGCCTGTACCTTCAGAACGGTCACTGTCGTGACTGAAGAATTGTT  13045
+                     ||  ||.|  |.||.||.|.|.||.|.|||||       ||.||||    
+5002-22255     13826 CG--CAAC--GCACTTTTATAGCGTTTACTGT-------GATGAAT----  13860
+
+1565-18817     13046 GGAGGCAGACTTGGTCCTCCATGGCTTTTCCACTGTGTGCATGTGCACAT  13095
+                     |||| ||.|.|        .|||.||.|||     ||||.||.||   ||
+5002-22255     13861 GGAG-CATATT--------AATGTCTCTTC-----TGTGGATATG---AT  13893
+
+1565-18817     13096 --ATTCTTCCC-TTAATGCAGGAAACACCATATTCCCAAATTTGCCTTGA  13142
+                       |||||.||| ||             ||.||.|.      |||.|||.|
+5002-22255     13894 TGATTCTCCCCCTT-------------CCTTAGTG------TTGTCTTCA  13924
+
+1565-18817     13143 ATTTACTTGAAAACTATGGTTTTAAGGGAGTGGGAGATAAAACAGGA--G  13190
+                     |       |.||| |||.|||                       |||  |
+5002-22255     13925 A-------GCAAA-TATAGTT-----------------------GGACCG  13943
+
+1565-18817     13191 ACTCTTAAGGGTTATATAATGATATAGATTCGTTTTTAATAGTTTTCCCT  13240
+                     ||.||   |.|||      ||||.|||.||..|||...||.||.||    
+5002-22255     13944 ACACT---GAGTT------TGATGTAGTTTACTTTAGGATTGTATT----  13980
+
+1565-18817     13241 TGTT-TTGCATTTAAAACTTC---GTTCTGAATACCCA-AATATTCACTT  13285
+                     |.|| |||.|||||.   |||   |  ||.|||   || ||.|||. |||
+5002-22255     13981 TATTATTGTATTTAT---TTCCAGG--CTTAAT---CATAACATTG-CTT  14021
+
+1565-18817     13286 ATTTTAAATTGAAACT-GTTGATTTGTAGAAAGTGTGTTTTTA---AGG-  13330
+                            ||||   || ||.|.|||||||.|      ||.|||   ||| 
+5002-22255     14022 -------ATTG---CTCGTAGCTTTGTAGCA------TTCTTACCCAGGA  14055
+
+1565-18817     13331 GTTTCTATGTCACGTGCTATGAATATCTTCTATATTTAGGGGGCTTGAAG  13380
+                     ||||   |     |||.| |||..|.|..|                  |.
+5002-22255     14056 GTTT---T-----GTGGT-TGACCAACCAC------------------AC  14078
+
+1565-18817     13381 AAATAATGACCCTCTC-CTTCCTAAAAACCTTTTTTTCTTTCTTTCAGCT  13429
+                     |||.||.|      || |||..|||     ||||.||..||.||||    
+5002-22255     14079 AAAAAAAG------TCACTTTTTAA-----TTTTATTTATTATTTC----  14113
+
+1565-18817     13430 ACTCCTCT-----------------ACACAGCC------GACTAGTTATG  13456
+                       ||||||                 ||| ||||      |||||||.|..
+5002-22255     14114 --TCCTCTTAGACCGCAGGATGGAAACA-AGCCCACTGAGACTAGTCAAC  14160
+
+1565-18817     13457 ATCAG---AGCA------GTTACTCTCAGCAGAACACCTATGGGCAGCCG  13497
+                     .|||.   ||||      |||||...||||.             |||||.
+5002-22255     14161 CTCAATCTAGCACAGGGGGTTACAACCAGCC-------------CAGCCT  14197
+
+1565-18817     13498 AGCAGCTATGGACAGCAGAGTAGCTATGGTCAACAAAGCAGCTA--TGGG  13545
+                     ||  |.|||||||||   ||||.|||..||.|.|.  .|||.||  ||||
+5002-22255     14198 AG--GATATGGACAG---AGTAACTACAGTTATCC--CCAGGTACCTGGG  14240
+
+1565-18817     13546 CAGCAGCCGCCCACTAGTTATCCCCCCCAAACTGGATCCTACAGCCAGGC  13595
+                      |||          ||        |||||   ||       |||||||.|
+5002-22255     14241 -AGC----------TA--------CCCCA---TG-------CAGCCAGTC  14261
+
+1565-18817     13596 TC--CAAGTCAATATAGCCAACAGAGCAGCAGCTACGGGCAGCAGAGTGA  13643
+                     .|  ||..||.||    ||.||    |  |..||||      ||| ||.|
+5002-22255     14262 ACTGCACCTCCAT----CCTAC----C--CTCCTAC------CAG-GTCA  14294
+
+1565-18817     13644 GTTGCTAA-----GAGAGAAAACCAAATAAGAATGATTAT---GTTTGGA  13685
+                     ||  |||.     |.| |.|||.|||| ||.|.|||..|.   ||||.  
+5002-22255     14295 GT--CTACTTTTTGTG-GCAAAACAAA-AACAGTGACAAAACAGTTTT--  14338
+
+1565-18817     13686 GTTTCTGAACATGGGGAAATGATCTTTACCG--TTGTTT--ACTTTTGGA  13731
+                      ||||.|             |.|.||.|||.  |||.||  ||||     
+5002-22255     14339 -TTTCAG-------------GTTGTTGACCAGCTTGCTTTGACTT-----  14369
+
+1565-18817     13732 CTCCAG----GGCATCTT-TAGGAC----------ATAA--CATCCTAGC  13764
+                     ||.|||    ||.||.|| |..|||          ||||  |||     |
+5002-22255     14370 CTTCAGCTAAGGTATGTTATCTGACTGTCGCAGTGATAAGTCAT-----C  14414
+
+1565-18817     13765 TAACCG--CTTGGATGTCCCATTAAAGACCTGAGTGCTTTTCTCCAATTT  13812
+                     |.|||.  |||||.|   .|||||||| ||||||..||....|||.||  
+5002-22255     14415 TGACCATACTTGGTT---ACATTAAAG-CCTGAGATCTAGGGTCCCAT--  14458
+
+1565-18817     13813 AATTGGTAGTAGGCCTTGCAAAGAAAGAAAGAGAGCTTGTAACTAACCAG  13862
+                      |.||.|     ||||.|||              |||..||||||..|  
+5002-22255     14459 -AGTGTT-----GCCTGGCA--------------GCTAATAACTATTC--  14486
+
+1565-18817     13863 AGAAAACATTTTA-----------------------AGATGCCAGCCTTG  13889
+                             ||||.                       |||.|. ||.||  
+5002-22255     14487 --------TTTTTTCTTTTTTTTTTTTTTTCCCCCGAGACGG-AGTCT--  14525
+
+1565-18817     13890 CTCTCTGAGG---AGG-TGTTACATACAGTGAGTGAAGCTGGC---AT-T  13931
+                     |||||||..|   ||| ||           |||||.|| ||||   || |
+5002-22255     14526 CTCTCTGTCGCCCAGGCTG-----------GAGTGCAG-TGGCGCGATCT  14563
+
+1565-18817     13932 CCTGTGGC---CTGCCCACCCCAACTCATTAAAAGG----ACG-------  13967
+                     |    |||   ||||...|.|||.|||.|     ||    |||       
+5002-22255     14564 C----GGCTCACTGCAAGCTCCACCTCCT-----GGGTTCACGCCATTCT  14604
+
+1565-18817     13968 --TG----AAC------AGATAGCTCTGAAGACTAGTGC-----------  13994
+                       ||    |||      || |||||..||..||..||||           
+5002-22255     14605 CCTGCCTCAACCTCCCGAG-TAGCTGGGACTACGGGTGCCCGCCACCACG  14653
+
+1565-18817     13995 ---AGTTTTGTGTGTGGTTTTTTCTTTCTTTCTTTTTTTTAAACTG-CAG  14040
+                        ||.|..        ||||||.|.|      ||||..||.|  | |||
+5002-22255     14654 CCCAGCTAA--------TTTTTTGTAT------TTTTAGTAGA--GACAG  14687
+
+1565-18817     14041 --TTT-----TGATGGTCAAGTAAATGTTAT--ATTT--TGGGTTTGGTT  14079
+                       |||     ||.|||.||.|   |||.|.|  ||.|  ||         
+5002-22255     14688 GGTTTCACTGTGTTGGCCAGG---ATGGTCTCAATCTCCTG---------  14725
+
+1565-18817     14080 TTTTTACATCT--ATAAAGCAAAAAAGGGGGGGAGAGGTTCT-----TCT  14122
+                          ||.||.  ||..|.|.|                 |||     ||.
+5002-22255     14726 -----ACCTCGTGATCCACCCA-----------------TCTCGGCCTCC  14753
+
+1565-18817     14123 CATAGAACACTTAGTTTTACATGGAGA-AGTAACCAAA--------AACT  14163
+                     ||.||..|   |.|..||||| ||.|. ||..|||..|        |.||
+5002-22255     14754 CACAGTGC---TGGGATTACA-GGCGTGAGCCACCGCACCCGGCCCAGCT  14799
+
+1565-18817     14164 CAAAACTGT-CTT-CACAATTTAA-----TTTTTACC--TGGATAGTTGT  14204
+                     .|.||||.| ||| |..|||..||     ||||||||  |..| ||||.|
+5002-22255     14800 AATAACTATTCTTTCTAAATACAAAAACATTTTTACCACTCTA-AGTTCT  14848
+
+1565-18817     14205 TT-TTTAA-TGAAACTCCATCCATGGGCATGTTTCATTCCGGCTACGAAA  14252
+                     || ||||| |     |.|.|||.|..|| |||||                
+5002-22255     14849 TTCTTTAAGT-----TTCTTCCTTTTGC-TGTTT----------------  14876
+
+1565-18817     14253 TGAGTAGTGCTT--CTC-GATTG--AGCCCAAGCTTCAGCAA-CATACTA  14296
+                         ||||   |  ||| |||.|  |||..|||..|..|.|| |||. ||
+5002-22255     14877 ----TAGT---TAACTCAGATGGGAAGCAGAAGTATATGAAAGCATG-TA  14918
+
+1565-18817     14297 AA--GCCCTAAGAAAC--CTGCCTC----CAGTTTTTGTTTCTTGAGAGT  14338
+                     ||  |...|||||..|  ||.||.|    |||||           ||..|
+5002-22255     14919 AATAGATGTAAGAGCCATCTTCCCCAATGCAGTT-----------AGGAT  14957
+
+1565-18817     14339 A-GTTTAAAGAAGCAGCTTTTGGAGGCATCGTAGGATATAAAACCCTGTA  14387
+                     | |  |||||. ||||        |||||       |||||         
+5002-22255     14958 AAG--TAAAGC-GCAG--------GGCAT-------TATAA---------  14980
+
+1565-18817     14388 AACTGTTGACCAGAGGGCTTTTTCTTATTTGGGTGGTTTTTTCCCAGGCT  14437
+                          ||.||       |||..||  ||||   |...||||.||     |
+5002-22255     14981 -----TTCAC-------CTTAATC--ATTT---TACATTTTACC-----T  15008
+
+1565-18817     14438 AAC---TATGTAAGGTTACCTCA-GCTCTGATGAACCTGCAGTTTTGGTT  14483
+                     |||   ||   ||||||...||| ||.||    |||||     |||    
+5002-22255     15009 AACACATA---AAGGTTTATTCATGCACT----AACCT-----TTT----  15042
+
+1565-18817     14484 AAAGTTAAAAGATCCTACATGATTAGAGGTGCTT-TGTTAGGTTTAAAGA  14532
+                     ||.||   |.|..||.|| |..||        || |.|||..||||    
+5002-22255     15043 AATGT---ATGGGCCAAC-TCTTT--------TTATTTTATTTTTA----  15076
+
+1565-18817     14533 AGATGGTGCCTTGGTTAGTGCCTTGCAATTGAGCATTCTGTGATTCCAGG  14582
+                               ||. |||..||||.||.|   ||..||||.|  ||..|| 
+5002-22255     15077 ----------TTA-TTATCGCCTGGCCA---AGTTTTCTTT--TTTGAG-  15109
+
+1565-18817     14583 AGAAAGT---ACG-------ACAGGCAGTGGTTCAAATGC--TGG-----  14615
+                     |.|.|||   ||.       ||||||  |||    |.|||  |||     
+5002-22255     15110 ACAGAGTCTCACTCTGTTGCACAGGC--TGG----AGTGCAGTGGCACGA  15153
+
+1565-18817     14616 --TCCATGGCTTACAGATGTGAC-TCTT--TCCTCAGG--TTC--ATTCC  14656
+                       |||   |||.||   ||..|| |||.  |||| |||  |||  ||.||
+5002-22255     15154 TCTCC---GCTCAC---TGCAACCTCTGCCTCCT-AGGGATTCTCATGCC  15196
+
+1565-18817     14657 GACAGGACCACCCCAGTAGCATGGGTGTTTATGGGCAGGAGTCTGGAGGA  14706
+                     . |||  ||.|||.|||||| ||||..|      |||  |||     |.|
+5002-22255     15197 T-CAG--CCTCCCGAGTAGC-TGGGACT------GCA--AGT-----GCA  15229
+
+1565-18817     14707 TTTTCCGGACCAGGAGAAAACCGGAGCATGAGTGGCCCTGA-TAACC---  14752
+                     |  .||  ||||              ||        ||||| ||||.   
+5002-22255     15230 T--GCC--ACCA--------------CA--------CCTGACTAACTTTT  15253
+
+1565-18817     14753 ------GGGGCAGGGGAAGAGGGGGATTTGATCGTGG-----AGGCATGA  14791
+                           |                   |||.||.||.|     ||  ||| 
+5002-22255     15254 CTTTTTG-------------------TTTTATTGTTGTTTTGAG--ATG-  15281
+
+1565-18817     14792 GCAGAGGTGGGC----GGGGAGGAGGACGCGGTGGAATGG---------G  14828
+                        |||.|..||    |..|...|||..|..|||.|||||         |
+5002-22255     15282 ---GAGTTTCGCTCTTGTTGCCCAGGCTGGAGTGCAATGGCACAATCTCG  15328
+
+1565-18817     14829 G-TAAGAGCAAACCTTTTC----TCCT---TTTACCTAATTTT---GTTT  14867
+                     | |.|..|||.    ||||    ||||   ||.|..|.|||.|   |.||
+5002-22255     15329 GCTTACTGCAG----TTTCCACCTCCTGGGTTCAAGTGATTCTCCTGCTT  15374
+
+1565-18817     14868 CATCCATAGGATTTTCAATGGAA--AGAAGGG---ACTGAAAGACAT---  14909
+                     ||.||....||.|..|  |||.|  |.|||.|   |||...|.||.|   
+5002-22255     15375 CAGCCTCCTGAGTAGC--TGGGATTACAAGTGCTCACTACCACACCTGGC  15422
+
+1565-18817     14910 AAGAAATTTATTTCT--GCATTTCCATGGACAATCAGTTGAGCCCAGGCC  14957
+                     || ||||||.|||.|  |.||||          |.|||.|||        
+5002-22255     15423 AA-AAATTTTTTTTTTTGTATTT----------TTAGTAGAG--------  15453
+
+1565-18817     14958 ATCTTCTAAAACATGGAAATGTCATCTTTGTGGCATAGATTAAGTGGCAG  15007
+                               |||.||   |.||| |..|||||            |.|||
+5002-22255     15454 ----------ACAGGG---TTTCA-CCATGTGG------------GCCAG  15477
+
+1565-18817     15008 TTCGCTTTTTTCCCTGCCAGTCT--ACTTCGTTGGGTTGGGGAGAACAAA  15055
+                        ||||            ||||  |.|||.|           ||.|..|
+5002-22255     15478 ---GCTT------------GTCTGGAATTCCT-----------GACCTCA  15501
+
+1565-18817     15056 GAATGGTTTTGAAACAAGAGCTTTCAGTTCCCTTCATGGTTTCCAGAGGT  15105
+                     |    ||   ||..||...||.|.||    ||         |||      
+5002-22255     15502 G----GT---GATCCACCCGCCTCCA----CC---------TCC------  15525
+
+1565-18817     15106 CAAAGCCTCTGTGGGTAATAGATTTGGGATGGAACACACACAA--CCCTT  15153
+                     |||||      ||.          ||||.||  |||..|.|.|  ||||.
+5002-22255     15526 CAAAG------TGC----------TGGGGTG--ACAGGCGCGAGCCCCTG  15557
+
+1565-18817     15154 CTAACACCCCTAGGTTTTTAACTAATTACCTCTGAATGGTTGTCTTGAAA  15203
+                     |...||.||  ||.||.||                 ||.||||.||||  
+5002-22255     15558 CGCCCAGCC--AGTTTGTT-----------------TGTTTGTTTTGA--  15586
+
+1565-18817     15204 TACCTGGTGTATATATACTGCAGAAAAGGAATGGAGCTGTTTTCCACAAT  15253
+                                                |  ||||||   ||||.|.|   
+5002-22255     15587 ---------------------------G--ATGGAG---TTTTGCTC---  15601
+
+1565-18817     15254 GTTTGTC-CCCAACTTCTGTTTGTACTTGGAATTGTTGAACGTAATGATG  15302
+                       ||||. ||||      |..||.|.| |.|||.|     |||       
+5002-22255     15602 --TTGTTGCCCA------GGCTGGAGT-GCAATGG-----CGT-------  15630
+
+1565-18817     15303 AAGATCTTGG-TC-CCGTAACCCCTGAACTA-TGGCCTGAAGTG---CAC  15346
+                       |||||||| || |||.||||.|||. ||. |||..|.|||.|   |.|
+5002-22255     15631 --GATCTTGGCTCACCGCAACCTCTGC-CTCCTGGGTTCAAGCGATTCTC  15677
+
+1565-18817     15347 CTGGTACACAGAAAAGTC--TAATAGCTTTTTGCAGAGTAATGTATATAG  15394
+                     |||.  |.|||   ..||  ||.|||||         |    |.|| |||
+5002-22255     15678 CTGC--CTCAG---CCTCCCTAGTAGCT---------G----GGAT-TAG  15708
+
+1565-18817     15395 TTACAGGATCACTCC-CCA-------------TTGGAGATTTTGGAAAGT  15430
+                     .|||||    ||.|| |||             |||.|..|||.|.|.||.
+5002-22255     15709 ATACAG----ACGCCACCACAACCGGCTAATTTTGTATTTTTAGTAGAGA  15754
+
+1565-18817     15431 CTAAATCGGTTTGACCATTTTGATTGATGGCACAATCTGGTTTAGAAAAC  15480
+                     |.    .|||||..||||.|||.|        ||..|||||.|.|||  |
+5002-22255     15755 CG----GGGTTTCTCCATGTTGGT--------CAGGCTGGTCTTGAA--C  15790
+
+1565-18817     15481 TTTGTTTAGATCAATAACATAACCCT--GCT-ATCTGTGCCTGCCCCTCC  15527
+                     |..              |||   |||  |.| |||.  ||||||  |||.
+5002-22255     15791 TCC--------------CAT---CCTCAGGTGATCC--GCCTGC--CTCG  15819
+
+1565-18817     15528 -CCTCCCTT-GTCCT------AC---------CCCTTCTTCCCTTTCTGG  15560
+                      ||||||.. ||.||      ||         ||  .||.|.|   ||||
+5002-22255     15820 GCCTCCCAAAGTGCTGGGAATACAGGCATGAGCC--ACTGCGC---CTGG  15864
+
+1565-18817     15561 -----TGTCTGTACTTTAATGAAGGTGAGGTATACTGTTGGTGGTTAACA  15605
+                          |.|.||||.|||.|     || ||  ||||.|     ||||. ||
+5002-22255     15865 CCCAGTTTTTGTATTTTTA-----GT-AG--ATACAG-----GGTTT-CA  15900
+
+1565-18817     15606 TAAT-----CCAGAA-GGTTTAG---TTCTGTGT-----GTGTTCTG---  15638
+                     .|||     ||||.. |||.|.|   |.||| |.     |||.||.|   
+5002-22255     15901 CAATGTTGGCCAGGCTGGTCTTGAACTCCTG-GCCTCAAGTGATCCGCCC  15949
+
+1565-18817     15639 ---------TCCCTATATAAA---CTAGTAAAAAAAAGTTATGCAGAATG  15676
+                              ||||     |||   ||.|.|        |||||  |.|| 
+5002-22255     15950 ACCTTGGCCTCCC-----AAAGTGCTGGGA--------TTATG--GGAT-  15983
+
+1565-18817     15677 TTACATATTAAGTATAAATTGGATTTG-GTGCCACCAT--------TGGT  15717
+                      ||||               ||   || |.||||||||        ||  
+5002-22255     15984 -TACA---------------GG---TGTGAGCCACCATGCCCAGCCTG--  16012
+
+1565-18817     15718 TCAAGAAAAAATTGGGTAGGGTTTCTT--------TTTA--TAGACGTGG  15757
+                      ||||           |    ||||||        ||||  ||||.||||
+5002-22255     16013 -CAAG-----------T----TTTCTTAACCCATGTTTAATTAGATGTGG  16046
+
+1565-18817     15758 ACTTCAAAATTAGATAAAAAGTTAATCTTTAATTTTTGTGTTCTCGTATC  15807
+                     ..||..|||||         ||     ||.||   |||||..||      
+5002-22255     16047 GTTTTCAAATT---------GT-----TTGAA---TTGTGCCCT------  16073
+
+1565-18817     15808 TGTATCTGATTGAAAGATAACTGATTGAAAGTAT-GGTTCTGCATATTCT  15856
+                                |||||.|.  ||.|.||| |||. |||||  |.|.||.|
+5002-22255     16074 -----------GAAAGTTT--TGCTAGAA-GTAGCGGTTC--CCTTTTTT  16107
+
+1565-18817     15857 GCATAACTTATAAGTCTGGTGAAATCTTTATTGGAAGAAACAGTTACTTG  15906
+                     |||   ||.||               ||.||||          ||  |||
+5002-22255     16108 GCA---CTCAT---------------TTCATTG----------TT--TTG  16127
+
+1565-18817     15907 ACAACATACAAAAATTGATGAACAA-TTTGGTATTAAGTAAAATCAGACT  15955
+                      ||.||.|       || ||||||. |||.|.|..|||||.|||     |
+5002-22255     16128 -CAGCAGA-------TG-TGAACAGGTTTAGGAACAAGTAGAAT-----T  16163
+
+1565-18817     15956 GATTTGGAGAATGTCATTCCATTATAAAGGTTTCA-CTTCTTTATGGATG  16004
+                     ||||.||    ||||..|||   |||.||   .|| |||      |||..
+5002-22255     16164 GATTGGG----TGTCTCTCC---ATACAG---CCAGCTT------GGAGC  16197
+
+1565-18817     16005 TTTTAAAA-----TAGACATAGACACTTGAAATTACTATCATCACGTCTC  16049
+                         ||||     |||     |.|        |||    ||.|.|.||| 
+5002-22255     16198 ----AAAAGTGGGTAG-----GGC--------TTA----CAACCCTTCT-  16225
+
+1565-18817     16050 CTCCAATCACCTAGAA--TTCTTAGTATTTTCCAATTGCAAAACCAATTT  16097
+                      ||||  ||  .||.|  |||.||       ||.||||||        ||
+5002-22255     16226 -TCCA--CA--GAGCAGGTTCGTA-------CCTATTGCA--------TT  16255
+
+1565-18817     16098 CGAGTTCATTCATTTTAATACTCCAGAAGTGATGATTCTACTAATTTTGC  16147
+                      |||..||.|     |||||     |.|||.|.   |||...||.||.|.
+5002-22255     16256 -GAGAGCAGT-----TAATA-----GCAGTTAA---TCTGGCAAGTTGGA  16291
+
+1565-18817     16148 TAG-TA------GAGGGATCCCCTCTTTCTGGACGAGAAGTCTCTCCTGG  16190
+                     ||| ||      |||.|||    |.||         |||.||. |.|   
+5002-22255     16292 TAGGTACACAGTGAGAGAT----TATT---------GAATTCA-TAC---  16324
+
+1565-18817     16191 AGCCAT----AGAAAAGTCGTG--------GCTTTCCCCACAGGTTT---  16225
+                     |||.||    ||..|.||.|||        |||||        ||||   
+5002-22255     16325 AGCAATGGTGAGGGATGTGGTGTGTTAGAAGCTTT--------GTTTGTT  16366
+
+1565-18817     16226 --TTCAACT-----GACTGTGAAGCAGTCGGTTGGATCC---CTTGGGGA  16265
+                       ||.|..|     |||.|.|...||.||.||||  |||   ||.|||.|
+5002-22255     16367 TGTTTATTTTTGGAGACCGGGTCTCACTCTGTTG--TCCAGGCTGGGGTA  16414
+
+1565-18817     16266 CAG-GACAGGGGCATTCTCCCCT----CC--------CCT---CTTTTTT  16299
+                     ||| ||||..|.|.|...|||||    ||        |||   ||..|||
+5002-22255     16415 CAGTGACACAGTCGTAGCCCCCTGTAGCCTCGAACTTCCTGGCCTAGTTT  16464
+
+1565-18817     16300 ACTCTG------------GTGTGGTGATGGTTT----TCAGTGTCTTCTG  16333
+                     |.||.|            ||||..|.|..||||    ||| ||..||   
+5002-22255     16465 AATCGGACTTTAAAATATGTGTCCTTACTGTTTCTCATCA-TGATTT---  16510
+
+1565-18817     16334 CAGGTAAGGCACTCAATGTTGTTAAC---ATGCCCTTTTTCATTGCCTCA  16380
+                        ||||.|  ||.|||       ||   |||.. |||||  |||.    
+5002-22255     16511 ---GTAAAG--CTTAAT-------ACCAGATGGG-TTTTT--TTGT----  16541
+
+1565-18817     16381 GTATTTTGA---TATTTTCATTGGCTGTTAAACGTGGAAACTTTTTAACA  16427
+                        |||||.   |.||||..||   ||||            |||||.|.|
+5002-22255     16542 ---TTTTGTGTGTGTTTTGTTT---TGTT------------TTTTTGAGA  16573
+
+1565-18817     16428 TGC--TTTGTCGCAT-TTA--TATGCTACAGGTTACAAAG-TGAGAGCCT  16471
+                     .|.  |||..|.|.| |||  ||.|||..||  |.|||.| ||.||.| |
+5002-22255     16574 CGGAGTTTCACTCCTGTTACCTAGGCTGGAG--TGCAATGGTGCGATC-T  16620
+
+1565-18817     16472 TGTATACACTTCAATACT------------TAAAAAG-TACCCGTAC-TC  16507
+                     ||..| |||..|||..||            ||||..| |.|.|.||| ||
+5002-22255     16621 TGGCT-CACCGCAACCCTCGCCTCCCAGGTTAAAGTGATTCTCCTACGTC  16669
+
+1565-18817     16508 AGTACTC------AGCCGGCAGCATAATGAAAAGTGGGACTAGACACGGT  16551
+                     ||. |||      |||.||||..|||  |..|.|||..||.|.||||   
+5002-22255     16670 AGC-CTCCCAAGTAGCTGGCATTATA--GGCATGTGCCACCACACAC---  16713
+
+1565-18817     16552 GTCCATATGGAGAGGAAAAATATACATAGAATATTTTTAACAAAATGTAT  16601
+                               ||.             ||    |||||         ||||
+5002-22255     16714 ----------AGC-------------TA----ATTTT---------GTAT  16727
+
+1565-18817     16602 TCATTGTATAAATGGAATCCTTC--TGTAACTTTGGTAA--CT------G  16641
+                     |..|.|||.|.|.||..|..|||  |||     ||||.|  ||      |
+5002-22255     16728 TTTTAGTAGAGACGGTGTTTTTCCATGT-----TGGTCAGGCTAGTCTCG  16772
+
+1565-18817     16642 CATACTTGTTATTTGGTAATGAACCAGAGGAGGTATAATACTCTAGAATT  16691
+                     .|..|.||...|..|||.||..|||.|      |.|....|||...||.|
+5002-22255     16773 AACCCCTGACCTCAGGTGATCCACCCG------TCTCTGCCTCCCAAAGT  16816
+
+1565-18817     16692 G-TGTAACATTAAAG-TGTAA---ACT--TT-TG-----TGTTTAAAGAG  16728
+                     | ||..|  |||.|| |||.|   |||  || ||     |||||      
+5002-22255     16817 GCTGGGA--TTACAGGTGTGAGCCACTGCTTCTGGCCCTTGTTT------  16858
+
+1565-18817     16729 AGAGAACATTTTATGGTGTGTACTTTTAAAAAAGGAAACAAAGCTGCATG  16778
+                             ||||.|..|.|    ||||..|.|.|||      |.|     
+5002-22255     16859 --------TTTTTTTTTTT----TTTTTGAGATGGA------GTT-----  16885
+
+1565-18817     16779 CAACAGCTTGAAATTG-TATATT---CAGGTATTAAAGGTGCAATA---C  16821
+                                  ||| |.|.||   ||||  ||..|| ||||.|.   |
+5002-22255     16886 -------------TTGCTCTGTTGCCCAGG--TTGGAG-TGCAGTGGCGC  16919
+
+1565-18817     16822 TGGTTAGAAAAAGCTCAGGGCCTCCCACTG-AGGAGCTGCCTTTA---TT  16867
+                     ||..|.|     |||||          ||| ||...|||||||..   ||
+5002-22255     16920 TGTCTTG-----GCTCA----------CTGCAGCCTCTGCCTTCCAGGTT  16954
+
+1565-18817     16868 TAAATCTTAAAGGAAAAATAAGAAAGACCCATCATGTTCCCTTCCCCAA-  16916
+                     ||||                         ||    ||||.|||.||..| 
+5002-22255     16955 TAAA-------------------------CA----GTTCTCTTGCCGCAG  16975
+
+1565-18817     16917 --TTTACAGTATGTAAGGCAGTCATTTTATAC---TGCTGTCATCACTAT  16961
+                       |.|..||||      ||.|..|.|.||..|   |||      |||.||
+5002-22255     16976 CCTCTCGAGTA------GCTGGGACTATAGGCGTGTGC------CACCAT  17013
+
+1565-18817     16962 CCTCAACTGATGTGTCTATAAA-----------GTTGCACCCCCAGTCTA  17000
+                     .|.||.||.||.|.|.|||...           |||.|||      |.|.
+5002-22255     17014 ACCCAGCTAATTTTTGTATTTTTAGTAGGTGGGGTTTCAC------TATG  17057
+
+1565-18817     17001 TTG---AGCCTTGATATTTGTTGT-AAATTCTCCTTTCA-CAGCGATTGT  17045
+                     |||   ||.||        |.|.| |||  |||||..|. |||   .|| 
+5002-22255     17058 TTGGTCAGGCT--------GGTCTCAAA--CTCCTGACCTCAG---GTG-  17093
+
+1565-18817     17046 TAAATCCATTAGTTCCCTGAATTGTATGGCTTTA-----TGCTGAAGATT  17090
+                        |||||       ||||..|||    ||.|..     |||||. ||||
+5002-22255     17094 ---ATCCA-------CCTGCCTTG----GCCTCCCAAAGTGCTGG-GATT  17128
+
+1565-18817     17091 ---GGCTGGATGCGTCCTCTGATGTGTGTTGTAGGCGTTTAAT----GTG  17133
+                        |||   |||.|.|.||..|..||       |.|    |||    ||.
+5002-22255     17129 ACAGGC---ATGAGCCTTCAAACCTG-------GCC----AATACCAGTT  17164
+
+1565-18817     17134 GTTGTCTCCTGCTTTATTACACTCTGTGACTTGTTAGGAA-GCCTC----  17178
+                     .||.||..  ||||.|||    ||||||.      |.||| |..||    
+5002-22255     17165 CTTTTCAA--GCTTCATT----TCTGTGC------AAGAATGTATCTATT  17202
+
+1565-18817     17179 ACTTGGCTCTCCCCTAGGAGAGGTTGAGGGTGCAC---CTTTATGAACAT  17225
+                     |.||   ||||||  |.|..|  ||||     ||.   |||.||    ||
+5002-22255     17203 AATT---TCTCCC--ATGTAA--TTGA-----CATAATCTTAAT----AT  17236
+
+1565-18817     17226 GGAAAGCAGTTGCCCCCGCTTGC-TAC---TC  17253
+                              |||.|     ||.| |||   ||
+5002-22255     17237 ---------TTGTC-----TTTCATACAATTC  17254
+
+
+#---------------------------------------
+#---------------------------------------
