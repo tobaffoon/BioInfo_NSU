@@ -1,0 +1,1 @@
+python3 quality_pipeline.py file:my_temp $1 $2 2>&1 | tee log.txt

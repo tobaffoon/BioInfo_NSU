@@ -1,0 +1,39 @@
+application/gzip
+Started analysis of SRR11788637.fastq.gz
+Approx 5% complete for SRR11788637.fastq.gz
+Approx 10% complete for SRR11788637.fastq.gz
+Approx 15% complete for SRR11788637.fastq.gz
+Approx 20% complete for SRR11788637.fastq.gz
+Approx 25% complete for SRR11788637.fastq.gz
+Approx 30% complete for SRR11788637.fastq.gz
+Approx 35% complete for SRR11788637.fastq.gz
+Approx 40% complete for SRR11788637.fastq.gz
+Approx 45% complete for SRR11788637.fastq.gz
+Approx 50% complete for SRR11788637.fastq.gz
+[M::mm_idx_gen::47.244*1.50] collected minimizers
+Approx 55% complete for SRR11788637.fastq.gz
+Approx 60% complete for SRR11788637.fastq.gz
+Approx 65% complete for SRR11788637.fastq.gz
+[M::mm_idx_gen::60.497*1.82] sorted minimizers
+[M::main::60.497*1.82] loaded/built the index for 455 target sequence(s)
+[M::mm_mapopt_update::62.197*1.80] mid_occ = 728
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 455
+[M::mm_idx_stat::63.059*1.79] distinct minimizers: 100202295 (37.96% are singletons); average occurrences: 5.732; average spacing: 5.587; total length: 3209286105
+Approx 70% complete for SRR11788637.fastq.gz
+Approx 75% complete for SRR11788637.fastq.gz
+Approx 80% complete for SRR11788637.fastq.gz
+Approx 85% complete for SRR11788637.fastq.gz
+Approx 90% complete for SRR11788637.fastq.gz
+Approx 95% complete for SRR11788637.fastq.gz
+Analysis complete for SRR11788637.fastq.gz
+[M::worker_pipeline::146.919*2.51] mapped 2536322 sequences
+[M::worker_pipeline::215.691*2.70] mapped 2546081 sequences
+[M::worker_pipeline::296.329*2.81] mapped 2549115 sequences
+[M::worker_pipeline::362.122*2.86] mapped 2535243 sequences
+[M::worker_pipeline::430.094*2.90] mapped 2538017 sequences
+[M::worker_pipeline::505.852*2.92] mapped 2558286 sequences
+[M::worker_pipeline::541.748*2.92] mapped 1466571 sequences
+[M::main] Version: 2.28-r1209
+[M::main] CMD: minimap2 -a /mnt/D/NSU_PROGRAMMING/BioInfo/sra/hg38.fa /mnt/D/NSU_PROGRAMMING/BioInfo/sra/SRR11788637.fastq.gz
+[M::main] Real time: 542.205 sec; CPU: 1581.580 sec; Peak RSS: 11.951 GB
+[bam_sort_core] merging from 9 files and 1 in-memory blocks...
